@@ -27,49 +27,65 @@ r = redis.Redis(
 def read_root():
     return {"Hello": "World"}
 
+
 @app.get("/hits")
 def read_hits():
     r.incr('hits')
     return {"hits": r.get('hits')}
 
+
 @app.post("/set-key-value")
-def set_key(item: RedisItem):
+def set_key_value(item: RedisItem):
     r.set(item.key, item.value)
     return {"status": "ok", "key": item.key, "value": item.value}
 
+
 @app.get("/get-key-value/{key}")
-def get_key(key: str):
+def get_key_value(key: str):
     value = r.get(key)
     if value is not None:
         return {"key": key, "value": value}
     else:
         return {"status": "error", "message": f"Key {key} does not exist."}
 
+
+@app.delete("/delete-key-value")
+def delete_key_value(item: DeleteKey):
+    if r.exists(item.key):
+        r.delete(item.key)
+        return {"status": "deleted k-v pair", "key": item.key}
+    else:
+        return {"status": "error", "message": f"Key {item.key} does not exist."}
+
+
 @app.post("/set-hash")
-def set_hash(item: UserObject):
+def set_key_hash(item: UserObject):
     redis_key = f"user:{item.user}"
     mapping = {k: v for k, v in item.dict().items() if v is not None}
     if mapping:
         r.hset(redis_key, mapping=mapping)
     return {"status": "ok", "key_set": redis_key}
 
+
 @app.get("/get-hash/{user}")
-def get_hash(user: str):
+def get_key_hash(user: str):
     redis_key = f"user:{user}"
     if r.exists(redis_key):
         data = r.hgetall(redis_key)
         return {"key": redis_key, "data": data}
     else:
         return {"status": "error", "message": f"User {user} does not exist."}
-    
-@app.delete("/delete")
-def delete_key(item: DeleteKey):
-    if r.exists(item.key):
-        r.delete(item.key)
-        return {"status": "deleted k-v pair", "key": item.key}
+        
+
+@app.delete("/delete-hash")
+def delete_key_hash(item: DeleteKey):
+    redis_key = f"user:{item.key}"
+    if r.exists(redis_key):
+        r.delete(redis_key)
+        return {"status": "deleted hash", "key": redis_key}
     else:
         return {"status": "error", "message": f"Key {item.key} does not exist."}
-    
+
 
 @app.get("/get-all-items")
 def get_all_items():
