@@ -40,7 +40,7 @@ def read_hits():
 
 @app.post("/set-key-value")
 def set_key_value(item: RedisItem):
-    """Set a key-value pair in Redis"""
+    """Set a key-value pair"""
     r.set(item.key, item.value)
     return {"status": "ok", "key": item.key, "value": item.value}
 
@@ -52,7 +52,7 @@ def set_key_hash(item: UserObject = Body(
             "user": "stephen",
             "job": "solutions architect"
         })):
-    """Set a key in Redis with a hash"""
+    """Set a key with a hash"""
     redis_key = f"user:{item.user}"
     mapping = {k: v for k, v in item.dict().items() if v is not None}
     if mapping:
@@ -70,7 +70,7 @@ def set_key_json(item: UserObjectJson = Body(
                 "address": {"city": "Apex", "state": "NC", "zip": 27502}
             }
         })):
-    """Set a key in Redis with JSON data"""
+    """Set a key with JSON data"""
     redis_key = f"user:{item.user}"
     mapping = {k: v for k, v in item.dict().items() if v is not None}
     print(json.dumps(mapping, indent=2))
@@ -78,9 +78,18 @@ def set_key_json(item: UserObjectJson = Body(
         r.json().set(redis_key, '$', mapping)
     return {"status": "ok", "key_set": redis_key}
 
+
 @app.post("/push-list")
-def push_list(item: UserObjectList):
-    """Push a list of messages to a Redis key"""
+def push_list(item: UserObjectList = Body(
+        ...,
+        example={
+            "user": "john",
+            "messages": [
+                {"role": "user", "content": "Hello what can you do for me?"},
+                {"role": "assistant", "content": "Hi, I am a helpful virtual assistant."}
+            ]
+        })):
+    """Push a list of messages to a key"""
     redis_key = f"messages:{item.user}"
     
     messages_to_push = [msg.json() for msg in item.messages]
@@ -92,7 +101,7 @@ def push_list(item: UserObjectList):
     
 @app.get("/get/{key:path}")
 def get_any_key(key: str):
-    """Retrieve any key-value from Redis"""
+    """Retrieve any key-value"""
     if not r.exists(key):
         return {"status": "error", "message": f"Key '{key}' does not exist."}
 
@@ -110,6 +119,14 @@ def get_any_key(key: str):
                 pass
     elif key_type == 'ReJSON-RL':
         data = r.json().get(key)
+    elif key_type == 'list':
+        list_data = r.lrange(key, 0, -1)
+        data = []
+        for item in list_data:
+            try:
+                data.append(json.loads(item))
+            except (json.JSONDecodeError, TypeError):
+                data.append(item)
     else:
         data = f"Unsupported data type: {key_type}"
 
@@ -118,7 +135,7 @@ def get_any_key(key: str):
 
 @app.delete("/delete/{key:path}")
 def delete_any_key(key: str):
-    """Delete a key from Redis"""
+    """Delete a key"""
     if r.exists(key):
         r.delete(key)
         return {"status": "deleted", "key": key}
@@ -127,7 +144,7 @@ def delete_any_key(key: str):
 
 @app.get("/get-all-items")
 def get_all_items():
-    """Retrieve all items from Redis"""
+    """Retrieve all items"""
     keys = r.keys('*')
     items = {}
     for key in keys:
@@ -152,5 +169,6 @@ def get_all_items():
                     data.append(json.loads(item))
                 except (json.JSONDecodeError, TypeError):
                     data.append(item)
+            items[key] = data
     return items
 
