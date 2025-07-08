@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  redis:
+    image: "redis/redis-stack:latest"
+    ports:
+      - "6379:6379"
+      - "8001:8001"
+    volumes:
+      - ./redis-data:/data
+    environment:
+      - REDIS_ARGS=--user ${REDIS_USERNAME} on +@all ~* >${REDIS_PASSWORD} --appendonly yes
+    env_file:
+      - ./.env
+
+  fastapi:
+    build: ./api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./api:/app
+    depends_on:
+      - redis
+    env_file:
+      - ./.env
