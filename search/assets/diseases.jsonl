@@ -1,0 +1,1000 @@
+{"description": "leukocyte disease -> leukopenia -> lymphopenia", "source": "diseases.json"}
+{"description": "gastrointestinal system disease -> stomach disease -> pylorospasm", "source": "diseases.json"}
+{"description": "uterine disease -> placenta disease -> chorioamnionitis", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> PCWH syndrome", "source": "diseases.json"}
+{"description": "sweat gland neoplasm -> apocrine sweat gland neoplasm -> hidrocystoma", "source": "diseases.json"}
+{"description": "central nervous system disease -> meningitis -> fungal meningitis", "source": "diseases.json"}
+{"description": "skin disease -> sweat gland disease -> miliaria", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> Alexander disease", "source": "diseases.json"}
+{"description": "opportunistic mycosis -> candidiasis -> cutaneous candidiasis", "source": "diseases.json"}
+{"description": "spleen cancer -> splenic manifestation of leukemia -> splenic manifestation of prolymphocytic leukemia", "source": "diseases.json"}
+{"description": "ovarian benign neoplasm -> ovarian cystadenoma -> mucinous ovarian cystadenoma", "source": "diseases.json"}
+{"description": "autosomal recessive disease -> xeroderma pigmentosum -> xeroderma pigmentosum group G", "source": "diseases.json"}
+{"description": "malignant glioma -> astrocytoma -> glioblastoma multiforme", "source": "diseases.json"}
+{"description": "skull base cancer -> skull base meningioma -> multiple skull base meningioma", "source": "diseases.json"}
+{"description": "crustacean allergy -> shrimp allergy -> brown shrimp allergy", "source": "diseases.json"}
+{"description": "salivary gland cancer -> sublingual gland cancer -> sublingual gland adenoid cystic carcinoma", "source": "diseases.json"}
+{"description": "chromosomal disease -> chromosomal deletion syndrome -> chromosome 17q11.2 deletion syndrome, 1.4Mb", "source": "diseases.json"}
+{"description": "carcinoma -> squamous cell carcinoma -> external ear squamous cell carcinoma", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> amino acid metabolic disorder -> phenylketonuria", "source": "diseases.json"}
+{"description": "bacterial infectious disease -> primary bacterial infectious disease -> botulism", "source": "diseases.json"}
+{"description": "vascular disease -> hepatic vascular disease -> Budd-Chiari syndrome", "source": "diseases.json"}
+{"description": "corneal disease -> sclerocornea -> corneal opacification and other ocular anomalies", "source": "diseases.json"}
+{"description": "female reproductive organ cancer -> vaginal cancer -> vaginal yolk sac tumor", "source": "diseases.json"}
+{"description": "carcinoma -> adenocarcinoma -> ampulla of Vater adenocarcinoma", "source": "diseases.json"}
+{"description": "bladder disease -> urinary bladder cancer -> urinary bladder anterior wall cancer", "source": "diseases.json"}
+{"description": "primary bacterial infectious disease -> legionellosis -> Pontiac fever", "source": "diseases.json"}
+{"description": "keratitis -> deep keratitis -> corneal abscess", "source": "diseases.json"}
+{"description": "breast disease -> breast cancer -> triple-receptor negative breast cancer", "source": "diseases.json"}
+{"description": "orofacial cleft -> cleft palate -> cleft soft palate", "source": "diseases.json"}
+{"description": "chromosomal disease -> chromosomal duplication syndrome -> Potocki-Lupski syndrome", "source": "diseases.json"}
+{"description": "peripheral nervous system disease -> neuropathy -> hereditary neuropathy with liability to pressure palsies", "source": "diseases.json"}
+{"description": "stomach disease -> hiatus hernia -> displacement of cardia through esophageal hiatus", "source": "diseases.json"}
+{"description": "urethra cancer -> male urethral cancer -> bulbomembranous urethral cancer", "source": "diseases.json"}
+{"description": "male reproductive system disease -> penile disease -> balanoposthitis", "source": "diseases.json"}
+{"description": "brain stem cancer -> cerebellopontine angle tumor -> cerebellopontine angle primitive neuroectodermal", "source": "diseases.json"}
+{"description": "nutrition disease -> nutritional deficiency disease -> pyridoxine deficiency anemia", "source": "diseases.json"}
+{"description": "musculoskeletal system disease -> connective tissue disease -> mediastinitis", "source": "diseases.json"}
+{"description": "organic acidemia -> methylmalonic acidemia -> methylmalonic aciduria and homocystinuria type cblE", "source": "diseases.json"}
+{"description": "hematologic cancer -> mast cell neoplasm -> cutaneous solitary mastocytoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> iridogoniodysgenesis syndrome", "source": "diseases.json"}
+{"description": "female reproductive organ cancer -> vulva cancer -> labium majus cancer", "source": "diseases.json"}
+{"description": "congenital heart disease -> heart septal defect -> atrial heart septal defect", "source": "diseases.json"}
+{"description": "eye and adnexa disease -> eye disease -> eye accommodation disease", "source": "diseases.json"}
+{"description": "skin disease -> lipomatosis -> steroid lipomatosis", "source": "diseases.json"}
+{"description": "blindness -> color blindness -> achromatopsia", "source": "diseases.json"}
+{"description": "otitis interna -> labyrinthitis -> serous labyrinthitis", "source": "diseases.json"}
+{"description": "endocrine system disease -> thyroid gland disease -> thyroiditis", "source": "diseases.json"}
+{"description": "heart disease -> heart cancer -> myocardium cancer", "source": "diseases.json"}
+{"description": "monogenic disease -> cataract -> cataract 9 multiple types", "source": "diseases.json"}
+{"description": "breast benign neoplasm -> breast fibrocystic disease -> proliferative type fibrocystic change of breast", "source": "diseases.json"}
+{"description": "posterior cranial fossa meningioma -> clivus meningioma -> upper clivus meningioma", "source": "diseases.json"}
+{"description": "heart valve disease -> pulmonary valve disease -> pulmonary valve stenosis", "source": "diseases.json"}
+{"description": "central nervous system disease -> neurodegenerative disease -> secondary Parkinson disease", "source": "diseases.json"}
+{"description": "respiratory system cancer -> lung cancer -> epithelioid trophoblastic tumor", "source": "diseases.json"}
+{"description": "nervous system disease -> central nervous system disease -> borna disease", "source": "diseases.json"}
+{"description": "autosomal recessive disease -> autosomal recessive limb-girdle muscular dystrophy -> autosomal recessive limb-girdle muscular dystrophy type 2M", "source": "diseases.json"}
+{"description": "blood coagulation disease -> inherited blood coagulation disease -> factor V deficiency", "source": "diseases.json"}
+{"description": "female reproductive organ benign neoplasm -> ovarian benign neoplasm -> mixed epithelial tumor of ovary", "source": "diseases.json"}
+{"description": "biliary tract benign neoplasm -> bile duct cystadenoma -> intrahepatic bile duct cystadenoma", "source": "diseases.json"}
+{"description": "fibroma -> uterine fibroid -> subserous uterine fibroid", "source": "diseases.json"}
+{"description": "brain disease -> cerebral degeneration -> Alpers syndrome", "source": "diseases.json"}
+{"description": "central nervous system cancer -> cranial nerve neoplasm -> trochlear nerve neoplasm", "source": "diseases.json"}
+{"description": "central nervous system cancer -> brain cancer -> brain meningioma", "source": "diseases.json"}
+{"description": "auditory system disease -> inner ear disease -> motion sickness", "source": "diseases.json"}
+{"description": "kidney disease -> kidney failure -> uremia", "source": "diseases.json"}
+{"description": "chromosomal disease -> chromosomal duplication syndrome -> chromosome 22q13 duplication syndrome", "source": "diseases.json"}
+{"description": "eye and adnexa disease -> eye disease -> asthenopia", "source": "diseases.json"}
+{"description": "paranasal sinus disease -> sinusitis -> frontal sinusitis", "source": "diseases.json"}
+{"description": "vulva carcinoma -> vulva adenocarcinoma -> vulval Paget's disease", "source": "diseases.json"}
+{"description": "female reproductive organ benign neoplasm -> vulvar benign neoplasm -> vulvar leiomyoma", "source": "diseases.json"}
+{"description": "squamous cell carcinoma -> lung squamous cell carcinoma -> lung occult squamous cell carcinoma", "source": "diseases.json"}
+{"description": "lung disease -> pneumonia -> toxic pneumonitis", "source": "diseases.json"}
+{"description": "hereditary sensory neuropathy -> hereditary sensory and autonomic neuropathy type 2 -> hereditary sensory and autonomic neuropathy type 2A", "source": "diseases.json"}
+{"description": "spleen cancer -> splenic manifestation of leukemia -> splenic manifestation of hairy cell leukemia", "source": "diseases.json"}
+{"description": "osteosarcoma -> bone osteosarcoma -> osteosarcoma arising in bone Paget's disease", "source": "diseases.json"}
+{"description": "amino acid metabolic disorder -> tyrosinemia -> tyrosinemia type III", "source": "diseases.json"}
+{"description": "syndromic intellectual disability -> syndromic X-linked intellectual disability -> syndromic X-linked intellectual disability Shrimpton type", "source": "diseases.json"}
+{"description": "respiratory system cancer -> lung cancer -> lung hilum cancer", "source": "diseases.json"}
+{"description": "anterior uveitis -> iridocyclitis -> glaucomatocyclitic crisis", "source": "diseases.json"}
+{"description": "non-suppurative otitis media -> eustachian tube disease -> otosalpingitis", "source": "diseases.json"}
+{"description": "cognitive disorder -> amnestic disorder -> transient global amnesia", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> spondyloepiphyseal dysplasia congenita", "source": "diseases.json"}
+{"description": "autoimmune disease of the nervous system -> autoimmune disease of peripheral nervous system -> autoimmune peripheral neuropathy", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> carbohydrate metabolic disorder -> glucosephosphate dehydrogenase deficiency", "source": "diseases.json"}
+{"description": "organ system benign neoplasm -> reproductive organ benign neoplasm -> sex cord-stromal benign neoplasm", "source": "diseases.json"}
+{"description": "neuroectodermal tumor -> central nervous system primitive neuroectodermal neoplasm -> childhood central nervous system primitive neuroectodermal neoplasm", "source": "diseases.json"}
+{"description": "congenital hemolytic anemia -> hemoglobinopathy -> hemoglobin E disease", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> adenoma -> water-clear cell adenoma", "source": "diseases.json"}
+{"description": "pleural disease -> pneumothorax -> spontaneous tension pneumothorax", "source": "diseases.json"}
+{"description": "ovarian cancer -> ovarian embryonal carcinoma -> childhood ovarian embryonal carcinoma", "source": "diseases.json"}
+{"description": "hematologic cancer -> lymphoma -> lymphoblastic lymphoma", "source": "diseases.json"}
+{"description": "bone marrow cancer -> myeloid neoplasm -> myelofibrosis", "source": "diseases.json"}
+{"description": "breast carcinoma -> breast adenocarcinoma -> acinic cell breast carcinoma", "source": "diseases.json"}
+{"description": "lymphocytic leukemia -> precursor lymphoblastic lymphoma/leukemia -> precursor B lymphoblastic lymphoma/leukemia", "source": "diseases.json"}
+{"description": "cognitive disorder -> dementia -> frontotemporal dementia", "source": "diseases.json"}
+{"description": "melanoma -> skin melanoma -> nodular malignant melanoma", "source": "diseases.json"}
+{"description": "rheumatic disease -> autoimmune disease of skin and connective tissue -> bullous pemphigoid", "source": "diseases.json"}
+{"description": "anxiety disorder -> acute stress disorder -> combat disorder", "source": "diseases.json"}
+{"description": "female reproductive organ benign neoplasm -> ovarian benign neoplasm -> ovarian clear cell adenofibroma", "source": "diseases.json"}
+{"description": "crustacean allergy -> shrimp allergy -> tiger prawn allergy", "source": "diseases.json"}
+{"description": "urinary system disease -> urethral disease -> urethral intrinsic sphincter deficiency", "source": "diseases.json"}
+{"description": "chromosomal disease -> chromosomal deletion syndrome -> chromosome 13q14 deletion syndrome", "source": "diseases.json"}
+{"description": "reproductive organ cancer -> male reproductive organ cancer -> spermatic cord cancer", "source": "diseases.json"}
+{"description": "eye disease -> corneal disease -> keratoconus", "source": "diseases.json"}
+{"description": "plasma cell neoplasm -> plasmacytoma -> solitary plasmacytoma of chest wall", "source": "diseases.json"}
+{"description": "lymphocytic leukemia -> chronic lymphocytic leukemia -> CLL/SLL", "source": "diseases.json"}
+{"description": "endocrine gland cancer -> pituitary cancer -> pituitary carcinoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> cystic fibrosis", "source": "diseases.json"}
+{"description": "benign perivascular tumor -> glomangioma -> familial glomangioma", "source": "diseases.json"}
+{"description": "lipoma -> angiolipoma -> infiltrating angiolipoma", "source": "diseases.json"}
+{"description": "lacrimal apparatus disease -> chronic inflammation of lacrimal passage -> chronic canaliculitis", "source": "diseases.json"}
+{"description": "skin disease -> dermatitis -> granuloma annulare", "source": "diseases.json"}
+{"description": "monogenic disease -> cataract -> cataract 14 multiple types", "source": "diseases.json"}
+{"description": "heart disease -> congestive heart failure -> diastolic heart failure", "source": "diseases.json"}
+{"description": "squamous cell carcinoma -> subglottis squamous cell carcinoma -> subglottis verrucous carcinoma", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> lysosomal storage disease -> Danon disease", "source": "diseases.json"}
+{"description": "mononeuritis -> mononeuritis of upper limb and mononeuritis multiplex -> ulnar nerve lesion", "source": "diseases.json"}
+{"description": "otitis media -> suppurative otitis media -> chronic tubotympanic suppurative otitis media", "source": "diseases.json"}
+{"description": "stomach disease -> functional gastric disease -> gastroparesis", "source": "diseases.json"}
+{"description": "gastrointestinal system disease -> mouth disease -> oral cavity carcinoma in situ", "source": "diseases.json"}
+{"description": "eye disease -> keratoconjunctivitis -> exposure keratitis", "source": "diseases.json"}
+{"description": "primary bacterial infectious disease -> bartonellosis -> bacillary angiomatosis", "source": "diseases.json"}
+{"description": "skin disease -> dermatitis -> folliculitis", "source": "diseases.json"}
+{"description": "peripheral nervous system neoplasm -> peripheral nerve sheath neoplasm -> neurofibroma", "source": "diseases.json"}
+{"description": "cell type cancer -> carcinoma -> granular cell carcinoma", "source": "diseases.json"}
+{"description": "Usher syndrome -> Usher syndrome type 1 -> Usher syndrome type 1D", "source": "diseases.json"}
+{"description": "carcinoma -> squamous cell carcinoma -> Bartholin's gland squamous cell carcinoma", "source": "diseases.json"}
+{"description": "hemangiopericytic tumor -> glomus tumor -> skin glomus tumor", "source": "diseases.json"}
+{"description": "lower respiratory tract disease -> lung disease -> respiratory failure", "source": "diseases.json"}
+{"description": "eye disease -> chorioretinitis -> disseminated chorioretinitis", "source": "diseases.json"}
+{"description": "scleral disease -> scleritis -> scleroperikeratitis", "source": "diseases.json"}
+{"description": "sarcoma -> rectum sarcoma -> rectum rhabdomyosarcoma", "source": "diseases.json"}
+{"description": "bacterial infectious disease -> primary bacterial infectious disease -> ornithosis", "source": "diseases.json"}
+{"description": "male reproductive system disease -> male infertility -> infertility due to extratesticular cause", "source": "diseases.json"}
+{"description": "mastocytosis -> cutaneous mastocytosis -> urticaria pigmentosa", "source": "diseases.json"}
+{"description": "eye and adnexa disease -> eye disease -> Marfan syndrome", "source": "diseases.json"}
+{"description": "mastocytosis -> systemic mastocytosis -> indolent systemic mastocytosis", "source": "diseases.json"}
+{"description": "uveitis -> panuveitis -> sympathetic ophthalmia", "source": "diseases.json"}
+{"description": "smooth muscle cancer -> leiomyosarcoma -> conventional leiomyosarcoma", "source": "diseases.json"}
+{"description": "carbohydrate metabolic disorder -> galactosemia -> galactokinase deficiency", "source": "diseases.json"}
+{"description": "malignant ovarian germ cell neoplasm -> ovarian primitive germ cell tumor -> ovarian mixed germ cell neoplasm", "source": "diseases.json"}
+{"description": "respiratory system disease -> upper respiratory tract disease -> nasopharyngeal disease", "source": "diseases.json"}
+{"description": "metal metabolism disorder -> familial periodic paralysis -> hyperkalemic periodic paralysis", "source": "diseases.json"}
+{"description": "bacterial infectious disease -> primary bacterial infectious disease -> paratyphoid fever", "source": "diseases.json"}
+{"description": "chromosomal disease -> chromosomal deletion syndrome -> chromosome 16p12.2-p11.2 deletion syndrome", "source": "diseases.json"}
+{"description": "bacterial infectious disease -> primary bacterial infectious disease -> tularemia", "source": "diseases.json"}
+{"description": "spinal cancer -> spinal canal and spinal cord meningioma -> thoracic spinal canal and spinal cord meningioma", "source": "diseases.json"}
+{"description": "male reproductive organ cancer -> prostate cancer -> prostate small cell carcinoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> achondrogenesis type IB", "source": "diseases.json"}
+{"description": "fundus dystrophy -> hereditary retinal dystrophy -> Sorsby's fundus dystrophy", "source": "diseases.json"}
+{"description": "cranial nerve neoplasm -> optic nerve neoplasm -> bilateral meningioma of optic nerve", "source": "diseases.json"}
+{"description": "acute transudative otitis media -> acute sanguinous otitis media -> acute allergic sanguinous otitis media", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> drug allergy -> tubocurarine allergy", "source": "diseases.json"}
+{"description": "central nervous system disease -> autoimmune disease of central nervous system -> multiple sclerosis", "source": "diseases.json"}
+{"description": "sarcoma -> meninges sarcoma -> sarcomatosis of the meninges", "source": "diseases.json"}
+{"description": "musculoskeletal system disease -> connective tissue disease -> frozen shoulder", "source": "diseases.json"}
+{"description": "bacterial infectious disease -> primary bacterial infectious disease -> Mycobacterium avium complex disease", "source": "diseases.json"}
+{"description": "connective tissue cancer -> hemangiopericytoma -> adult malignant hemangiopericytoma", "source": "diseases.json"}
+{"description": "systemic mycosis -> primary systemic mycosis -> allescheriosis", "source": "diseases.json"}
+{"description": "breast disease -> breast cancer -> breast lymphoma", "source": "diseases.json"}
+{"description": "bladder disease -> urinary bladder cancer -> urinary bladder posterior wall cancer", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> JMP syndrome", "source": "diseases.json"}
+{"description": "brain disease -> movement disease -> congenital mirror movement disorder", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> metal allergy -> potassium dichromate allergic contact dermatitis", "source": "diseases.json"}
+{"description": "breast disease -> microglandular adenosis -> blunt duct adenosis of breast", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> hidradenoma -> clear cell hidradenoma", "source": "diseases.json"}
+{"description": "vascular disease -> cerebrovascular disease -> occlusion precerebral artery", "source": "diseases.json"}
+{"description": "spinal cord disease -> spinal cancer -> spinal canal and spinal cord meningioma", "source": "diseases.json"}
+{"description": "skin benign neoplasm -> hair follicle neoplasm -> pilomatrixoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> Axenfeld-Rieger syndrome", "source": "diseases.json"}
+{"description": "hematologic cancer -> lymphoma -> gallbladder lymphoma", "source": "diseases.json"}
+{"description": "myopathy -> congenital structural myopathy -> central core myopathy", "source": "diseases.json"}
+{"description": "hemorrhagic disease -> blood platelet disease -> thrombocytosis", "source": "diseases.json"}
+{"description": "central nervous system cancer -> brain cancer -> childhood central nervous system mixed germ cell tumor", "source": "diseases.json"}
+{"description": "spinal cord disease -> spinal cancer -> neurofibroma of spinal cord", "source": "diseases.json"}
+{"description": "integumentary system benign neoplasm -> skin benign neoplasm -> dermis tumor", "source": "diseases.json"}
+{"description": "stomach disease -> gastritis -> alcoholic gastritis", "source": "diseases.json"}
+{"description": "agranulocytosis -> neutropenia -> severe congenital neutropenia", "source": "diseases.json"}
+{"description": "bone disease -> bone development disease -> clubfoot", "source": "diseases.json"}
+{"description": "gonadal disease -> testicular disease -> testicular infarct", "source": "diseases.json"}
+{"description": "skull cancer -> skull base cancer -> sella turcica neoplasm", "source": "diseases.json"}
+{"description": "pituitary adenoma -> functioning pituitary adenoma -> ACTH-secreting pituitary adenoma", "source": "diseases.json"}
+{"description": "epididymitis -> epididymo-orchitis -> acute gonococcal epididymo-orchitis", "source": "diseases.json"}
+{"description": "sarcoma -> dendritic cell sarcoma -> follicular dendritic cell sarcoma", "source": "diseases.json"}
+{"description": "fungal infectious disease -> cutaneous mycosis -> dermatomycosis", "source": "diseases.json"}
+{"description": "endocrine gland cancer -> testicular cancer -> embryonal testis carcinoma", "source": "diseases.json"}
+{"description": "bone development disease -> osteochondrodysplasia -> thanatophoric dysplasia", "source": "diseases.json"}
+{"description": "nervous system cancer -> central nervous system cancer -> central nervous system mesenchymal non-meningothelial tumor", "source": "diseases.json"}
+{"description": "lower respiratory tract disease -> pleural disease -> congenital chylothorax", "source": "diseases.json"}
+{"description": "carcinoma -> squamous cell carcinoma -> verrucous carcinoma", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> drug allergy -> phenobarbital allergy", "source": "diseases.json"}
+{"description": "bacterial infectious disease -> opportunistic bacterial infectious disease -> nocardiosis", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> acrokeratosis verruciformis", "source": "diseases.json"}
+{"description": "thymoma -> spindle cell thymoma -> malignant type A thymoma", "source": "diseases.json"}
+{"description": "psychotic disorder -> substance-induced psychosis -> drug-induced mental disorder", "source": "diseases.json"}
+{"description": "brain disease -> encephalitis -> syphilitic encephalitis", "source": "diseases.json"}
+{"description": "upper respiratory tract disease -> tracheal disease -> tracheal calcification", "source": "diseases.json"}
+{"description": "extrapulmonary tuberculosis -> urogenital tuberculosis -> renal tuberculosis", "source": "diseases.json"}
+{"description": "epilepsy -> electroclinical syndrome -> infancy electroclinical syndrome", "source": "diseases.json"}
+{"description": "skin cancer -> malignant dermis tumor -> malignant skin fibrous histiocytoma", "source": "diseases.json"}
+{"description": "fallopian tube cancer -> fallopian tube carcinosarcoma -> fallopian tube adenosarcoma", "source": "diseases.json"}
+{"description": "viral infectious disease -> hepatitis A", "source": "diseases.json"}
+{"description": "lymphatic system cancer -> lymph node cancer -> lymph node palisaded myofibroblastoma", "source": "diseases.json"}
+{"description": "vascular disease -> hepatic vascular disease -> hepatic infarction", "source": "diseases.json"}
+{"description": "autoimmune disease of blood -> primary thrombocytopenia -> Evans' syndrome", "source": "diseases.json"}
+{"description": "mononeuritis -> mononeuritis of upper limb and mononeuritis multiplex -> median neuropathy", "source": "diseases.json"}
+{"description": "paraplegia -> hereditary spastic paraplegia -> Mast syndrome", "source": "diseases.json"}
+{"description": "hematologic cancer -> leukemia -> mast-cell leukemia", "source": "diseases.json"}
+{"description": "vascular disease -> cholesterol embolism -> atheroembolism of kidney", "source": "diseases.json"}
+{"description": "eye adnexa disease -> eyelid disease -> ectropion", "source": "diseases.json"}
+{"description": "gastrointestinal system disease -> esophageal atresia/tracheoesophageal fistula", "source": "diseases.json"}
+{"description": "sinusitis -> sphenoid sinusitis -> chronic sphenoidal sinusitis", "source": "diseases.json"}
+{"description": "bone disease -> bone development disease -> Fuhrmann syndrome", "source": "diseases.json"}
+{"description": "choroid cancer -> malignant choroid melanoma -> choroid necrotic melanoma", "source": "diseases.json"}
+{"description": "hematologic cancer -> leukemia -> central nervous system leukemia", "source": "diseases.json"}
+{"description": "bone disease -> bone inflammation disease -> Osgood-Schlatter's disease", "source": "diseases.json"}
+{"description": "uterine ligament cancer -> uterine ligament adenocarcinoma -> uterine ligament mucinous adenocarcinoma", "source": "diseases.json"}
+{"description": "retinal degeneration -> retinitis pigmentosa -> retinitis pigmentosa Y-linked", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> lysosomal storage disease -> cystinosis", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> metal allergy -> cobalt allergic asthma", "source": "diseases.json"}
+{"description": "macular degeneration -> degeneration of macula and posterior pole -> cystoid macular retinal degeneration", "source": "diseases.json"}
+{"description": "lacrimal apparatus disease -> excessive tearing -> epiphora due to excess lacrimation", "source": "diseases.json"}
+{"description": "corneal disease -> keratitis -> gonococcal keratitis", "source": "diseases.json"}
+{"description": "spinal cord disease -> spinal cancer -> childhood spinal cord tumor", "source": "diseases.json"}
+{"description": "vulva carcinoma -> vulva adenocarcinoma -> vulvar eccrine adenocarcinoma", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> amino acid metabolic disorder -> adenylosuccinase lyase deficiency", "source": "diseases.json"}
+{"description": "skin squamous cell carcinoma -> keratoacanthoma -> Ferguson-Smith tumor", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> autosomal recessive chronic granulomatous disease cytochrome b-positive type II", "source": "diseases.json"}
+{"description": "vaginal benign neoplasm -> vaginal adenoma -> vaginal tubular adenoma", "source": "diseases.json"}
+{"description": "leukemia -> myeloid leukemia -> acute myeloid leukemia", "source": "diseases.json"}
+{"description": "dystonia -> focal dystonia -> anismus", "source": "diseases.json"}
+{"description": "impulse control disorder -> pyromania", "source": "diseases.json"}
+{"description": "benign neurilemmoma -> benign mediastinal neurilemmoma -> benign mediastinal psammomatous neurilemmoma", "source": "diseases.json"}
+{"description": "cell type cancer -> malignant hemangioma -> malignant epithelioid hemangioendothelioma", "source": "diseases.json"}
+{"description": "peripheral osteosarcoma -> juxtacortical osteosarcoma -> childhood parosteal osteogenic sarcoma", "source": "diseases.json"}
+{"description": "eyelid disease -> blepharitis -> squamous blepharitis", "source": "diseases.json"}
+{"description": "polyneuropathy -> polyradiculoneuropathy -> polyradiculopathy", "source": "diseases.json"}
+{"description": "autosomal recessive disease -> asphyxiating thoracic dystrophy -> short-rib thoracic dysplasia 6 with or without polydactyly", "source": "diseases.json"}
+{"description": "movement disease -> dystonia -> sepiapterin reductase deficiency", "source": "diseases.json"}
+{"description": "bone inflammation disease -> arthritis -> adult-onset Still's disease", "source": "diseases.json"}
+{"description": "thoracic benign neoplasm -> breast benign neoplasm -> benign breast phyllodes tumor", "source": "diseases.json"}
+{"description": "breast cancer -> female breast cancer -> female breast nipple and areola cancer", "source": "diseases.json"}
+{"description": "brain stem cancer -> cerebellopontine angle tumor -> C-P angle neurinoma", "source": "diseases.json"}
+{"description": "endocrine gland cancer -> pineal gland cancer -> pineoblastoma", "source": "diseases.json"}
+{"description": "retinal degeneration -> retinoschisis -> bullous retinoschisis", "source": "diseases.json"}
+{"description": "colon cancer -> descending colon cancer -> splenic flexure cancer", "source": "diseases.json"}
+{"description": "bladder disease -> bladder benign neoplasm -> urinary bladder inverted papilloma", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> peroxisomal disease -> Zellweger syndrome", "source": "diseases.json"}
+{"description": "heart disease -> heart aneurysm -> coronary aneurysm", "source": "diseases.json"}
+{"description": "hematopoietic system disease -> anemia -> microcytic anemia", "source": "diseases.json"}
+{"description": "otitis interna -> labyrinthitis -> viral labyrinthitis", "source": "diseases.json"}
+{"description": "sexual disorder -> sexual dysfunction -> impotence", "source": "diseases.json"}
+{"description": "corneal dystrophy -> epithelial and subepithelial dystrophy -> Meesmann corneal dystrophy", "source": "diseases.json"}
+{"description": "eye disease -> scleral disease -> scleral staphyloma", "source": "diseases.json"}
+{"description": "endocrine gland cancer -> testicular cancer -> epididymal neoplasm", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> Antley-Bixler syndrome", "source": "diseases.json"}
+{"description": "bladder disease -> cystitis -> acute cystitis", "source": "diseases.json"}
+{"description": "central nervous system benign neoplasm -> brain angioma -> cerebral angioma", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> hemangioma -> pulmonary sclerosing hemangioma", "source": "diseases.json"}
+{"description": "breast disease -> breast cancer -> adenosquamous breast carcinoma", "source": "diseases.json"}
+{"description": "motor neuron disease -> spinal muscular atrophy -> survival motor neuron spinal muscular atrophy", "source": "diseases.json"}
+{"description": "heart septal defect -> ventricular septal defect -> double outlet right ventricle", "source": "diseases.json"}
+{"description": "Charcot-Marie-Tooth disease -> Charcot-Marie-Tooth disease type 2 -> Charcot-Marie-Tooth disease axonal type 2K", "source": "diseases.json"}
+{"description": "malignant leptomeningeal tumor -> meningeal melanoma -> pediatric leptomeningeal melanoma", "source": "diseases.json"}
+{"description": "shellfish allergy -> mollusc allergy -> snail allergy", "source": "diseases.json"}
+{"description": "uterine disease -> cervix disease -> cervix erosion", "source": "diseases.json"}
+{"description": "lymphoma -> Hodgkin's lymphoma -> Hodgkin's lymphoma, lymphocytic-histiocytic predominance", "source": "diseases.json"}
+{"description": "intrinsic cardiomyopathy -> dilated cardiomyopathy -> dilated cardiomyopathy 1EE", "source": "diseases.json"}
+{"description": "mood disorder -> bipolar disorder -> bipolar I disorder", "source": "diseases.json"}
+{"description": "skin disease -> pigmentation disease -> conjunctival pigmentation", "source": "diseases.json"}
+{"description": "brain cancer -> infratentorial cancer -> medulloblastoma", "source": "diseases.json"}
+{"description": "blastoma -> pulmonary blastoma -> classic pulmonary blastoma", "source": "diseases.json"}
+{"description": "heart valve disease -> aortic valve disease -> aortic valve insufficiency", "source": "diseases.json"}
+{"description": "male urethral cancer -> prostatic urethral cancer -> prostatic urethra urothelial carcinoma", "source": "diseases.json"}
+{"description": "leukemia -> myeloid leukemia -> chronic myeloid leukemia", "source": "diseases.json"}
+{"description": "carcinoma -> squamous cell carcinoma -> pancreatic squamous cell carcinoma", "source": "diseases.json"}
+{"description": "female reproductive system disease -> prolapse of female genital organ -> enterocele", "source": "diseases.json"}
+{"description": "cerebral degeneration -> leukodystrophy -> hypomyelinating leukodystrophy", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> amino acid metabolic disorder -> lysinuric protein intolerance", "source": "diseases.json"}
+{"description": "oral cavity cancer -> soft palate cancer -> uvula cancer", "source": "diseases.json"}
+{"description": "thoracic benign neoplasm -> breast benign neoplasm -> breast adenoma", "source": "diseases.json"}
+{"description": "integumentary system disease -> skin disease -> Kimura disease", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> drug allergy -> alcuronium bromide allergy", "source": "diseases.json"}
+{"description": "chondrosarcoma -> extraosseous chondrosarcoma -> extraskeletal mesenchymal chondrosarcoma", "source": "diseases.json"}
+{"description": "thoracic disease -> breast disease -> hypertrophy of breast", "source": "diseases.json"}
+{"description": "monogenic disease -> cone-rod dystrophy -> Newfoundland cone-rod dystrophy", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> Meier-Gorlin syndrome", "source": "diseases.json"}
+{"description": "parasitic infectious disease -> parasitic protozoa infectious disease -> malaria", "source": "diseases.json"}
+{"description": "lipomatous cancer -> liposarcoma -> myxoid liposarcoma", "source": "diseases.json"}
+{"description": "amino acid metabolic disorder -> hypermethioninemia -> glycine N-methyltransferase deficiency", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> adenofibroma -> rete ovarii cystadenofibroma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> Birt-Hogg-Dube syndrome", "source": "diseases.json"}
+{"description": "bacterial infectious disease -> rheumatic fever", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> amelogenesis imperfecta type 1H", "source": "diseases.json"}
+{"description": "fallopian tube disease -> salpingitis -> acute salpingitis", "source": "diseases.json"}
+{"description": "sensory system disease -> auditory system disease -> dislocation of ear ossicle", "source": "diseases.json"}
+{"description": "brain cancer -> brain meningioma -> childhood brain meningioma", "source": "diseases.json"}
+{"description": "diabetes mellitus -> type 2 diabetes mellitus -> diabetic peripheral angiopathy", "source": "diseases.json"}
+{"description": "bone disease -> bone cancer -> long bones of lower limb cancer", "source": "diseases.json"}
+{"description": "prostate cancer -> prostate carcinoma -> prostate adenoid cystic carcinoma", "source": "diseases.json"}
+{"description": "artery disease -> carotid artery disease -> carotid artery occlusion", "source": "diseases.json"}
+{"description": "corneal disease -> corneal edema -> idiopathic corneal edema", "source": "diseases.json"}
+{"description": "integumentary system disease -> skin disease -> allergic cutaneous vasculitis", "source": "diseases.json"}
+{"description": "carcinoma -> adenocarcinoma -> scirrhous adenocarcinoma", "source": "diseases.json"}
+{"description": "malignant glioma -> spinal cord glioma -> spinal cord astrocytoma", "source": "diseases.json"}
+{"description": "nutrition disease -> nutritional deficiency disease -> Keshan disease", "source": "diseases.json"}
+{"description": "eye adnexa disease -> orbital disease -> orbital cyst", "source": "diseases.json"}
+{"description": "stomach cancer -> gastric fundus cancer -> gastric fundus carcinoma", "source": "diseases.json"}
+{"description": "movement disease -> dystonia -> segmental dystonia", "source": "diseases.json"}
+{"description": "carcinoma -> thymic carcinoma -> thymus sarcomatoid carcinoma", "source": "diseases.json"}
+{"description": "corneal disease -> keratitis -> photokeratitis", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> acheiropody", "source": "diseases.json"}
+{"description": "spinal cord disease -> spinal cancer -> epidural neoplasm", "source": "diseases.json"}
+{"description": "neuromuscular junction disease -> congenital myasthenic syndrome -> congenital myasthenic syndrome 3A", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> tarsal-carpal coalition syndrome", "source": "diseases.json"}
+{"description": "pericardium disease -> pericarditis -> constrictive pericarditis", "source": "diseases.json"}
+{"description": "ovarian disease -> ovarian cancer -> ovarian Wilms' cancer", "source": "diseases.json"}
+{"description": "uveal melanoma -> mixed cell uveal melanoma -> ciliary body mixed cell melanoma", "source": "diseases.json"}
+{"description": "hematologic cancer -> refractory hematologic cancer -> refractory plasma cell neoplasm", "source": "diseases.json"}
+{"description": "fasciitis -> pseudosarcomatous fibromatosis -> cranial pseudosarcomatous fasciitis", "source": "diseases.json"}
+{"description": "intestinal cancer -> small intestine cancer -> small intestinal sarcoma", "source": "diseases.json"}
+{"description": "ocular motility disease -> strabismus -> conjugate gaze palsy", "source": "diseases.json"}
+{"description": "primary immunodeficiency disease -> B cell deficiency -> immunoglobulin alpha deficiency", "source": "diseases.json"}
+{"description": "brain cancer -> supratentorial cancer -> supratentorial primitive neuroectodermal tumor", "source": "diseases.json"}
+{"description": "autosomal recessive disease -> autosomal recessive cerebellar ataxia -> Charlevoix-Saguenay spastic ataxia", "source": "diseases.json"}
+{"description": "hematologic cancer -> lymphoma -> thymus lymphoma", "source": "diseases.json"}
+{"description": "glycogen metabolism disorder -> glycogen storage disease -> lethal congenital glycogen storage disease of heart", "source": "diseases.json"}
+{"description": "syndromic intellectual disability -> syndromic X-linked intellectual disability -> syndromic X-linked intellectual disability Lubs type", "source": "diseases.json"}
+{"description": "carcinoma -> salivary gland carcinoma -> mucoepidermoid carcinoma", "source": "diseases.json"}
+{"description": "supratentorial cancer -> cerebrum cancer -> cerebral lymphoma", "source": "diseases.json"}
+{"description": "eye disease -> lacrimal apparatus disease -> primary lacrimal atrophy", "source": "diseases.json"}
+{"description": "organ system benign neoplasm -> respiratory system benign neoplasm -> benign pleural mesothelioma", "source": "diseases.json"}
+{"description": "pre-malignant neoplasm -> in situ carcinoma -> pharynx carcinoma in situ", "source": "diseases.json"}
+{"description": "breast disease -> breast cancer -> Her2-receptor negative breast cancer", "source": "diseases.json"}
+{"description": "primary bacterial infectious disease -> legionellosis -> Legionnaires' disease", "source": "diseases.json"}
+{"description": "endocrine organ benign neoplasm -> liver benign neoplasm -> liver leiomyoma", "source": "diseases.json"}
+{"description": "endocrine system disease -> thyroid gland disease -> thyrotoxicosis", "source": "diseases.json"}
+{"description": "cell type cancer -> carcinoma -> middle ear carcinoma", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> peroxisomal disease -> infantile Refsum disease", "source": "diseases.json"}
+{"description": "gastric adenocarcinoma -> gastric diffuse adenocarcinoma -> gastric signet ring cell adenocarcinoma", "source": "diseases.json"}
+{"description": "hematopoietic system disease -> blood coagulation disease -> coagulation protein disease", "source": "diseases.json"}
+{"description": "eye adnexa disease -> orbital disease -> hemangioma of orbit", "source": "diseases.json"}
+{"description": "opportunistic mycosis -> microsporidiosis -> encephalitozoonosis", "source": "diseases.json"}
+{"description": "bacterial infectious disease -> primary bacterial infectious disease -> ehrlichiosis", "source": "diseases.json"}
+{"description": "thymus cancer -> thymoma -> spindle cell thymoma", "source": "diseases.json"}
+{"description": "connective tissue cancer -> chondrosarcoma -> extraosseous chondrosarcoma", "source": "diseases.json"}
+{"description": "nephritis -> glomerulonephritis -> acute poststreptococcal glomerulonephritis", "source": "diseases.json"}
+{"description": "monogenic disease -> cataract -> senile cataract", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> amino acid metabolic disorder -> Hartnup disease", "source": "diseases.json"}
+{"description": "communication disorder -> language disorder -> expressive language disorder", "source": "diseases.json"}
+{"description": "endometriosis -> endometrial cancer -> endometrial stromal tumor", "source": "diseases.json"}
+{"description": "skin disease -> tinea corporis -> tinea imbricata", "source": "diseases.json"}
+{"description": "eyelid disease -> entropion -> spastic entropion", "source": "diseases.json"}
+{"description": "vulva cancer -> labia minora cancer -> labia minora carcinoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> LADD syndrome", "source": "diseases.json"}
+{"description": "hypogonadism -> gonadal dysgenesis -> Turner syndrome", "source": "diseases.json"}
+{"description": "scleritis -> anterior scleritis -> brawny scleritis", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> Griscelli syndrome", "source": "diseases.json"}
+{"description": "bile duct disease -> cholangitis -> acute cholangitis", "source": "diseases.json"}
+{"description": "uterine disease -> cervix disease -> hypertrophic elongation of cervix", "source": "diseases.json"}
+{"description": "female reproductive system disease -> fallopian tube disease -> tuberculous salpingitis", "source": "diseases.json"}
+{"description": "cell type cancer -> osteosarcoma -> multifocal osteogenic sarcoma", "source": "diseases.json"}
+{"description": "endolymphatic hydrops -> Meniere's disease -> active cochlear Meniere's disease", "source": "diseases.json"}
+{"description": "peripheral nerve sheath neoplasm -> neurofibroma -> Pacinian tumor", "source": "diseases.json"}
+{"description": "eye and adnexa disease -> eye disease -> ptosis", "source": "diseases.json"}
+{"description": "teeth hard tissue disease -> tooth erosion -> enamel erosion", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> hemangioma -> scrotal angioma", "source": "diseases.json"}
+{"description": "auditory system disease -> inner ear disease -> labyrinthine dysfunction", "source": "diseases.json"}
+{"description": "gonadal disease -> testicular disease -> spermatic cord torsion", "source": "diseases.json"}
+{"description": "chromosomal disease -> chromosomal duplication syndrome -> chromosome 16p13.3 duplication syndrome", "source": "diseases.json"}
+{"description": "blepharitis -> noninfectious dermatoses of eyelid -> allergic contact dermatitis of eyelid", "source": "diseases.json"}
+{"description": "chromosomal disease -> chromosomal duplication syndrome -> chromosome 17p13.3 duplication syndrome", "source": "diseases.json"}
+{"description": "eye disease -> retinal disease -> retinal ischemia", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> cartilage-hair hypoplasia", "source": "diseases.json"}
+{"description": "esophageal disease -> esophagitis -> eosinophilic esophagitis", "source": "diseases.json"}
+{"description": "bone disease -> ischemic bone disease -> osteochondrosis", "source": "diseases.json"}
+{"description": "synucleinopathy -> multiple system atrophy -> striatonigral degeneration", "source": "diseases.json"}
+{"description": "respiratory system cancer -> lung cancer -> main bronchus cancer", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> peroxisomal disease -> alpha-methylacyl-CoA racemase deficiency", "source": "diseases.json"}
+{"description": "eyelid disease -> blepharitis -> meibomian cyst", "source": "diseases.json"}
+{"description": "intestinal disease -> colonic disease -> colon carcinoma in situ", "source": "diseases.json"}
+{"description": "dissociative disorder -> dissociative amnesia", "source": "diseases.json"}
+{"description": "bone disease -> bone inflammation disease -> osteomyelitis", "source": "diseases.json"}
+{"description": "synucleinopathy -> Parkinson's disease -> juvenile-onset Parkinson's disease", "source": "diseases.json"}
+{"description": "primary bacterial infectious disease -> tularemia -> pneumonic tularemia", "source": "diseases.json"}
+{"description": "prostate disease -> prostatic hypertrophy -> prostatic cyst", "source": "diseases.json"}
+{"description": "skin disease -> chronic ulcer of skin -> decubitus ulcer", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> osteoporosis-pseudoglioma syndrome", "source": "diseases.json"}
+{"description": "monogenic disease -> Charcot-Marie-Tooth disease -> Charcot-Marie-Tooth disease type X", "source": "diseases.json"}
+{"description": "corneal dystrophy -> epithelial-stromal TGFBI dystrophy -> corneal granular dystrophy", "source": "diseases.json"}
+{"description": "hematologic cancer -> lymphoma -> sternum lymphoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> multiple cutaneous and mucosal venous malformations", "source": "diseases.json"}
+{"description": "endocrine system disease -> thyroid gland disease -> thyrocalcitonin secretion disease", "source": "diseases.json"}
+{"description": "artery disease -> arteriosclerosis -> intermittent claudication", "source": "diseases.json"}
+{"description": "lung cancer -> lung carcinoma -> lung mucoepidermoid carcinoma", "source": "diseases.json"}
+{"description": "endocrine organ benign neoplasm -> pituitary adenoma -> functionless pituitary adenoma", "source": "diseases.json"}
+{"description": "lymphedema -> hereditary lymphedema -> hereditary lymphedema II", "source": "diseases.json"}
+{"description": "bacterial infectious disease -> commensal bacterial infectious disease -> pertussis", "source": "diseases.json"}
+{"description": "kidney failure -> acute kidney failure -> hepatorenal syndrome", "source": "diseases.json"}
+{"description": "pericardium disease -> pericardial effusion -> hemopericardium", "source": "diseases.json"}
+{"description": "cell type cancer -> melanoma -> spinal cord melanoma", "source": "diseases.json"}
+{"description": "nephritis -> glomerulonephritis -> diffuse glomerulonephritis", "source": "diseases.json"}
+{"description": "cranial nerve disease -> optic nerve disease -> papilledema", "source": "diseases.json"}
+{"description": "anemia -> macrocytic anemia -> chromosome 5q deletion syndrome", "source": "diseases.json"}
+{"description": "brain cancer -> brain glioma -> brain oligodendroglioma", "source": "diseases.json"}
+{"description": "blood coagulation disease -> inherited blood coagulation disease -> antithrombin III deficiency", "source": "diseases.json"}
+{"description": "autoimmune hypersensitivity disease -> autoimmune disease of urogenital tract -> primary biliary cirrhosis", "source": "diseases.json"}
+{"description": "vascular cancer -> angiosarcoma -> conventional angiosarcoma", "source": "diseases.json"}
+{"description": "vesiculobullous skin disease -> epidermolysis bullosa -> epidermolysis bullosa dystrophica", "source": "diseases.json"}
+{"description": "mouth disease -> tooth disease -> periodontosis", "source": "diseases.json"}
+{"description": "bladder adenocarcinoma -> bladder clear cell adenocarcinoma -> bladder papillary clear cell adenocarcinoma", "source": "diseases.json"}
+{"description": "specific phobia -> nosophobia -> AIDS phobia", "source": "diseases.json"}
+{"description": "bacterial pneumonia -> aspiration pneumonia -> anaerobic pneumonia", "source": "diseases.json"}
+{"description": "integumentary system cancer -> skin cancer -> malignant dermis tumor", "source": "diseases.json"}
+{"description": "bone disease -> bone structure disease -> spondylolisthesis", "source": "diseases.json"}
+{"description": "carcinoma -> squamous cell carcinoma -> breast squamous cell carcinoma", "source": "diseases.json"}
+{"description": "bone disease -> arthropathy -> tenosynovitis", "source": "diseases.json"}
+{"description": "congenital disorder of glycosylation -> congenital disorder of glycosylation type II -> congenital disorder of glycosylation type IIg", "source": "diseases.json"}
+{"description": "vulva cancer -> vulvar sarcoma -> vulvar leiomyosarcoma", "source": "diseases.json"}
+{"description": "bone marrow cancer -> myeloid neoplasm -> myeloproliferative neoplasm", "source": "diseases.json"}
+{"description": "hypogonadism -> hypogonadotropic hypogonadism -> hypogonadotropic hypogonadism 7 with or without anosmia", "source": "diseases.json"}
+{"description": "carcinoma -> malignant ependymoma -> pediatric ependymoma", "source": "diseases.json"}
+{"description": "cardiovascular system disease -> vascular disease -> hepatic vascular disease", "source": "diseases.json"}
+{"description": "organ system cancer -> hematologic cancer -> myeloid sarcoma", "source": "diseases.json"}
+{"description": "eye and adnexa disease -> eye disease -> ocular hypertension", "source": "diseases.json"}
+{"description": "dysostosis -> synostosis -> calcaneonavicular coalition", "source": "diseases.json"}
+{"description": "spinal cord disease -> spinal cancer -> spinal cord dermoid cyst", "source": "diseases.json"}
+{"description": "congenital disorder of glycosylation -> congenital disorder of glycosylation type II -> congenital disorder of glycosylation type IIm", "source": "diseases.json"}
+{"description": "dysostosis -> brachydactyly -> Ballard syndrome", "source": "diseases.json"}
+{"description": "lymphocytic leukemia -> chronic lymphocytic leukemia -> T-cell large granular lymphocyte leukemia", "source": "diseases.json"}
+{"description": "colorectal cancer -> rectum cancer -> rectum sarcomatoid carcinoma", "source": "diseases.json"}
+{"description": "primary systemic mycosis -> histoplasmosis -> African histoplasmosis", "source": "diseases.json"}
+{"description": "renal pelvis neoplasm -> renal pelvis papillary tumor -> renal pelvis urothelial papilloma", "source": "diseases.json"}
+{"description": "connective tissue benign neoplasm -> fibroma -> uterine fibroid", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> bullous congenital ichthyosiform erythroderma", "source": "diseases.json"}
+{"description": "respiratory system cancer -> lung cancer -> pulmonary artery leiomyosarcoma", "source": "diseases.json"}
+{"description": "variable age at onset electroclinical syndrome -> progressive myoclonus epilepsy -> Unverricht-Lundborg syndrome", "source": "diseases.json"}
+{"description": "vascular disease -> artery disease -> vertebral artery occlusion", "source": "diseases.json"}
+{"description": "conjunctivitis -> acute conjunctivitis -> conjunctival folliculosis", "source": "diseases.json"}
+{"description": "primary bacterial infectious disease -> typhus -> epidemic typhus", "source": "diseases.json"}
+{"description": "female reproductive system disease -> uterine disease -> uterine inversion", "source": "diseases.json"}
+{"description": "endocrine system disease -> pancreas disease -> exocrine pancreatic insufficiency", "source": "diseases.json"}
+{"description": "bone disease -> bone inflammation disease -> Caffey disease", "source": "diseases.json"}
+{"description": "urinary system disease -> bladder disease -> neurogenic bladder", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> amino acid metabolic disorder -> dicarboxylic aminoaciduria", "source": "diseases.json"}
+{"description": "testicular cancer -> spermatocytoma -> testicular spermatocytic seminoma", "source": "diseases.json"}
+{"description": "muscular disease -> muscle tissue disease -> distal arthrogryposis", "source": "diseases.json"}
+{"description": "squamous cell carcinoma -> malignant mesothelioma -> malignant epithelial mesothelioma", "source": "diseases.json"}
+{"description": "connective tissue cancer -> pleural cancer -> malignant parietal pleura tumor", "source": "diseases.json"}
+{"description": "autosomal dominant disease -> autosomal dominant cerebellar ataxia -> autosomal dominant cerebellar ataxia, deafness and narcolepsy", "source": "diseases.json"}
+{"description": "lower respiratory tract disease -> lung disease -> silo filler's disease", "source": "diseases.json"}
+{"description": "integumentary system benign neoplasm -> skin benign neoplasm -> clear cell acanthoma", "source": "diseases.json"}
+{"description": "mixed cell type cancer -> endodermal sinus tumor -> childhood endodermal sinus tumor", "source": "diseases.json"}
+{"description": "musculoskeletal system benign neoplasm -> connective tissue benign neoplasm -> infantile myofibromatosis", "source": "diseases.json"}
+{"description": "eye disease -> globe disease -> posterior dislocation of lens", "source": "diseases.json"}
+{"description": "endometrial carcinoma -> endometrial adenocarcinoma -> oxyphilic endometrial endometrioid adenocarcinoma", "source": "diseases.json"}
+{"description": "endocrine system disease -> thyroid gland disease -> hyperthyroidism", "source": "diseases.json"}
+{"description": "heart disease -> heart valve disease -> mitral valve disease", "source": "diseases.json"}
+{"description": "monogenic disease -> cataract -> cataract 4 multiple types", "source": "diseases.json"}
+{"description": "lipid storage disease -> xanthomatosis -> verruciform xanthoma of skin", "source": "diseases.json"}
+{"description": "communication disorder -> agnosia -> alexithymia", "source": "diseases.json"}
+{"description": "primary immunodeficiency disease -> complement deficiency -> complement component 3 deficiency", "source": "diseases.json"}
+{"description": "leukemia -> lymphocytic leukemia -> T-cell leukemia", "source": "diseases.json"}
+{"description": "amino acid metabolic disorder -> cerebral creatine deficiency syndrome -> creatine transporter deficiency", "source": "diseases.json"}
+{"description": "connective tissue cancer -> mesenchymoma -> malignant mesenchymoma", "source": "diseases.json"}
+{"description": "syndromic intellectual disability -> syndromic X-linked intellectual disability -> corpus callosum agenesis-intellectual disability-coloboma-micrognathia syndrome", "source": "diseases.json"}
+{"description": "gonadal disease -> ovarian disease -> ovarian dysfunction", "source": "diseases.json"}
+{"description": "glucose metabolism disease -> diabetes mellitus -> neonatal diabetes mellitus", "source": "diseases.json"}
+{"description": "peripheral nervous system neoplasm -> peripheral nerve sheath neoplasm -> perineurioma", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> hemangioma -> deep angioma", "source": "diseases.json"}
+{"description": "renal cell carcinoma -> chromophobe renal cell carcinoma -> classic variant of chromophobe renal cell carcinoma", "source": "diseases.json"}
+{"description": "autosomal recessive disease -> autosomal recessive cutis laxa type I -> autosomal recessive cutis laxa type IC", "source": "diseases.json"}
+{"description": "vascular disease -> artery disease -> arterial calcification of infancy", "source": "diseases.json"}
+{"description": "respiratory system benign neoplasm -> laryngeal benign neoplasm -> glottis neoplasm", "source": "diseases.json"}
+{"description": "central nervous system disease -> paraplegia -> Brown-Sequard syndrome", "source": "diseases.json"}
+{"description": "supratentorial cancer -> cerebrum cancer -> frontal lobe neoplasm", "source": "diseases.json"}
+{"description": "lymphedema -> hereditary lymphedema -> hereditary lymphedema IA", "source": "diseases.json"}
+{"description": "nervous system disease -> central nervous system disease -> angiostrongyliasis", "source": "diseases.json"}
+{"description": "eye disease -> eye accommodation disease -> presbyopia", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> lipoma -> angiolipoma", "source": "diseases.json"}
+{"description": "inner ear disease -> labyrinthine dysfunction -> bilateral hyperactive labyrinth", "source": "diseases.json"}
+{"description": "cell type cancer -> melanoma -> amelanotic melanoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> advanced sleep phase syndrome", "source": "diseases.json"}
+{"description": "sleep disorder -> bruxism", "source": "diseases.json"}
+{"description": "skin disease -> dermatitis -> neurotic excoriation", "source": "diseases.json"}
+{"description": "giant cell tumor -> malignant giant cell tumor -> bone giant cell sarcoma", "source": "diseases.json"}
+{"description": "X-linked monogenic disease -> X-linked dominant disease -> amelogenesis imperfecta type 1E", "source": "diseases.json"}
+{"description": "autosomal recessive disease -> xeroderma pigmentosum -> xeroderma pigmentosum group F", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> plasma protein metabolism disease", "source": "diseases.json"}
+{"description": "bladder disease -> cystitis -> radiation cystitis", "source": "diseases.json"}
+{"description": "neuromuscular disease -> neuromuscular junction disease -> Lambert-Eaton myasthenic syndrome", "source": "diseases.json"}
+{"description": "viral infectious disease -> dengue disease", "source": "diseases.json"}
+{"description": "X-linked monogenic disease -> X-linked recessive disease -> MASA syndrome", "source": "diseases.json"}
+{"description": "testicular non-seminomatous germ cell cancer -> testicular yolk sac tumor -> enteric pattern testicular yolk sac tumor", "source": "diseases.json"}
+{"description": "autosomal dominant disease -> Lynch syndrome -> Muir-Torre syndrome", "source": "diseases.json"}
+{"description": "integumentary system disease -> skin disease -> vascular skin disease", "source": "diseases.json"}
+{"description": "brain stem glioma -> adult brain stem glioma -> adult brainstem astrocytoma", "source": "diseases.json"}
+{"description": "vascular disease -> artery disease -> peripheral artery disease", "source": "diseases.json"}
+{"description": "autosomal recessive disease -> autosomal recessive cutis laxa type II classic type -> autosomal recessive cutis laxa type IIA", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> Sotos syndrome", "source": "diseases.json"}
+{"description": "carcinoma -> squamous cell carcinoma -> oral squamous cell carcinoma", "source": "diseases.json"}
+{"description": "interstitial lung disease -> pneumoconiosis -> byssinosis", "source": "diseases.json"}
+{"description": "vascular disease -> retinal vascular disease -> exudative vitreoretinopathy", "source": "diseases.json"}
+{"description": "smooth muscle cancer -> leiomyosarcoma -> myxoid leiomyosarcoma", "source": "diseases.json"}
+{"description": "breast fibrocystic disease -> non-proliferative fibrocystic change of the breast -> fibrosclerosis of breast", "source": "diseases.json"}
+{"description": "teeth hard tissue disease -> tooth resorption -> internal pathological resorption", "source": "diseases.json"}
+{"description": "bone disease -> arthropathy -> De Quervain disease", "source": "diseases.json"}
+{"description": "respiratory system cancer -> paranasal sinus cancer -> ethmoid sinus cancer", "source": "diseases.json"}
+{"description": "lower respiratory tract disease -> lung disease -> acute chest syndrome", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> lipid metabolism disorder -> medium chain acyl-CoA dehydrogenase deficiency", "source": "diseases.json"}
+{"description": "anemia -> neonatal anemia -> kernicterus due to isoimmunization", "source": "diseases.json"}
+{"description": "vulva cancer -> vulvar sarcoma -> vulvar childhood botryoid-type embryonal rhabdomyosarcoma", "source": "diseases.json"}
+{"description": "dystonia -> focal dystonia -> cervical dystonia", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> Rubinstein-Taybi syndrome", "source": "diseases.json"}
+{"description": "Charcot-Marie-Tooth disease -> Charcot-Marie-Tooth disease intermediate type -> Charcot-Marie-Tooth disease dominant intermediate B", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> hemangioma -> acquired hemangioma", "source": "diseases.json"}
+{"description": "tuberculosis -> extrapulmonary tuberculosis -> pleural tuberculosis", "source": "diseases.json"}
+{"description": "musculoskeletal system disease -> muscular disease -> sinoatrial node disease", "source": "diseases.json"}
+{"description": "meningioma -> anterior cranial fossa meningioma -> olfactory groove meningioma", "source": "diseases.json"}
+{"description": "bone remodeling disease -> osteosclerosis -> craniometaphyseal dysplasia", "source": "diseases.json"}
+{"description": "eye disease -> pupil disease -> abnormal pupillary function", "source": "diseases.json"}
+{"description": "acute inflammation of lacrimal passage -> dacryocystitis -> acute dacryocystitis", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> lipid metabolism disorder -> Smith-Lemli-Opitz syndrome", "source": "diseases.json"}
+{"description": "vascular disease -> artery disease -> carotid artery disease", "source": "diseases.json"}
+{"description": "tongue disease -> glossitis -> atrophic glossitis", "source": "diseases.json"}
+{"description": "reproductive system disease -> female reproductive system disease -> parovarian cyst", "source": "diseases.json"}
+{"description": "central nervous system disease -> meningitis -> bacterial meningitis", "source": "diseases.json"}
+{"description": "breast carcinoma -> breast metaplastic carcinoma -> breast mucoepidermoid carcinoma", "source": "diseases.json"}
+{"description": "scleroderma -> systemic scleroderma -> limited scleroderma", "source": "diseases.json"}
+{"description": "endocardium disease -> endocarditis -> infective endocarditis", "source": "diseases.json"}
+{"description": "autosomal dominant disease -> Waardenburg's syndrome -> Waardenburg syndrome type 2B", "source": "diseases.json"}
+{"description": "corneal dystrophy -> epithelial and subepithelial dystrophy -> subepithelial mucinous corneal dystrophy", "source": "diseases.json"}
+{"description": "reproductive organ benign neoplasm -> paratesticular lipoma -> lipoma of spermatic cord", "source": "diseases.json"}
+{"description": "neurodegenerative disease -> synucleinopathy -> multiple system atrophy", "source": "diseases.json"}
+{"description": "nutrition disease -> nutritional deficiency disease -> pellagra", "source": "diseases.json"}
+{"description": "brain cancer -> brain glioma -> brain glioblastoma multiforme", "source": "diseases.json"}
+{"description": "uveitis -> intermediate uveitis -> pars planitis", "source": "diseases.json"}
+{"description": "vesiculobullous skin disease -> epidermolysis bullosa -> epidermolysis bullosa simplex", "source": "diseases.json"}
+{"description": "disease of anatomical entity -> nervous system disease -> herpes zoster", "source": "diseases.json"}
+{"description": "Charcot-Marie-Tooth disease -> Charcot-Marie-Tooth disease intermediate type -> Charcot-Marie-Tooth disease dominant intermediate G", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> Crouzon syndrome-acanthosis nigricans syndrome", "source": "diseases.json"}
+{"description": "cerebellar disease -> cerebellum cancer -> adult cerebellar neoplasm", "source": "diseases.json"}
+{"description": "respiratory system benign neoplasm -> paranasal sinus neoplasm -> frontal sinus neoplasm", "source": "diseases.json"}
+{"description": "female reproductive system disease -> uterine disease -> hemometra", "source": "diseases.json"}
+{"description": "thymus cancer -> thymoma -> noninvasive malignant thymoma", "source": "diseases.json"}
+{"description": "periodontal disease -> gingival disease -> pericoronitis", "source": "diseases.json"}
+{"description": "in situ carcinoma -> breast carcinoma in situ -> lobular neoplasia", "source": "diseases.json"}
+{"description": "adenocarcinoma -> bladder adenocarcinoma -> bladder colonic type adenocarcinoma", "source": "diseases.json"}
+{"description": "thymus cancer -> thymoma -> invasive malignant thymoma", "source": "diseases.json"}
+{"description": "interstitial lung disease -> pulmonary fibrosis -> diffuse pulmonary fibrosis", "source": "diseases.json"}
+{"description": "carcinoma -> squamous cell carcinoma -> trachea squamous cell carcinoma", "source": "diseases.json"}
+{"description": "monogenic disease -> cataract -> cataract 13 with adult i phenotype", "source": "diseases.json"}
+{"description": "keratosis -> palmoplantar keratosis -> epidermolytic palmoplantar keratoderma", "source": "diseases.json"}
+{"description": "nervous system disease -> peripheral nervous system disease -> nerve compression syndrome", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> mitochondrial DNA depletion syndrome 12b", "source": "diseases.json"}
+{"description": "central nervous system cancer -> central nervous system melanocytic neoplasm -> meningeal melanocytoma", "source": "diseases.json"}
+{"description": "reproductive system disease -> female reproductive system disease -> vulvovaginitis", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> allergic contact dermatitis -> benzoic acid allergic contact dermatitis", "source": "diseases.json"}
+{"description": "substance-induced psychosis -> alcohol-induced mental disorder -> alcoholic psychosis", "source": "diseases.json"}
+{"description": "breast disease -> breast cancer -> breast granular cell tumor", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> beta-ketothiolase deficiency", "source": "diseases.json"}
+{"description": "vulva cancer -> vulva carcinoma -> vulvar clear cell hidradenocarcinoma", "source": "diseases.json"}
+{"description": "mite infestation -> scabies -> norwegian scabies", "source": "diseases.json"}
+{"description": "sarcoma -> skin sarcoma -> cutaneous leiomyosarcoma", "source": "diseases.json"}
+{"description": "movement disease -> dystonia -> multifocal dystonia", "source": "diseases.json"}
+{"description": "cranial nerve disease -> glossopharyngeal nerve disease -> hypoglossal nerve disease", "source": "diseases.json"}
+{"description": "nephritis -> glomerulonephritis -> rapidly progressive glomerulonephritis", "source": "diseases.json"}
+{"description": "arthropathy -> spondyloarthropathy -> Kummell's disease", "source": "diseases.json"}
+{"description": "eye adnexa disease -> orbital disease -> enophthalmos", "source": "diseases.json"}
+{"description": "dermatitis -> bullous skin disease -> pemphigus", "source": "diseases.json"}
+{"description": "malignant glioma -> cerebellar astrocytoma -> pilocytic astrocytoma of cerebellum", "source": "diseases.json"}
+{"description": "neuropathy -> hereditary sensory neuropathy -> hereditary sensory neuropathy type 1B", "source": "diseases.json"}
+{"description": "retinal disease -> chorioretinal scar -> solar retinopathy", "source": "diseases.json"}
+{"description": "autoimmune disease of central nervous system -> multiple sclerosis -> relapsing-remitting multiple sclerosis", "source": "diseases.json"}
+{"description": "histiocytoma -> malignant fibroxanthoma -> malignant giant cell tumor of soft parts", "source": "diseases.json"}
+{"description": "blastoma -> pulmonary blastoma -> pleuropulmonary blastoma", "source": "diseases.json"}
+{"description": "organic acidemia -> methylmalonic acidemia -> methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency", "source": "diseases.json"}
+{"description": "corneal disease -> keratitis -> herpes simplex virus keratitis", "source": "diseases.json"}
+{"description": "adenocarcinoma -> extrahepatic bile duct adenocarcinoma -> papillary extrahepatic bile duct adenocarcinoma", "source": "diseases.json"}
+{"description": "optic nerve disease -> papilledema -> Foster-Kennedy syndrome", "source": "diseases.json"}
+{"description": "corneal disease -> keratitis -> filamentary keratitis", "source": "diseases.json"}
+{"description": "lysosomal storage disease -> mucopolysaccharidosis -> mucopolysaccharidosis IV", "source": "diseases.json"}
+{"description": "food allergy -> fish allergy -> zebrafish allergy", "source": "diseases.json"}
+{"description": "muscular disease -> diaphragm disease -> diaphragmatic eventration", "source": "diseases.json"}
+{"description": "uterine cancer -> uterine corpus cancer -> mixed endometrial stromal and smooth muscle tumor", "source": "diseases.json"}
+{"description": "skin disease -> pigmentation disease -> Bloch-Sulzberger syndrome", "source": "diseases.json"}
+{"description": "brain disease -> epilepsy -> photosensitive epilepsy", "source": "diseases.json"}
+{"description": "cervix disease -> cervical cancer -> cervical carcinosarcoma", "source": "diseases.json"}
+{"description": "arthropathy -> tenosynovitis -> bicipital tenosynovitis", "source": "diseases.json"}
+{"description": "carcinoma -> bile duct carcinoma -> distal biliary tract carcinoma", "source": "diseases.json"}
+{"description": "chronic obstructive pulmonary disease -> pulmonary emphysema -> compensatory emphysema", "source": "diseases.json"}
+{"description": "Usher syndrome -> Usher syndrome type 2 -> Usher syndrome type 2D", "source": "diseases.json"}
+{"description": "cerebral degeneration -> leukodystrophy -> leukoencephalopathy with vanishing white matter", "source": "diseases.json"}
+{"description": "interstitial lung disease -> pulmonary fibrosis -> postinflammatory pulmonary fibrosis", "source": "diseases.json"}
+{"description": "carcinoma -> bile duct carcinoma -> bile duct signet ring cell carcinoma", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> respiratory allergy -> allergic bronchopulmonary aspergillosis", "source": "diseases.json"}
+{"description": "pituitary gland disease -> necrosis of pituitary -> pituitary infarct", "source": "diseases.json"}
+{"description": "neuropathy -> mononeuropathy -> tibial neuropathy", "source": "diseases.json"}
+{"description": "developmental disorder of mental health -> specific developmental disorder -> developmental coordination disorder", "source": "diseases.json"}
+{"description": "muscle tissue disease -> myopathy -> spheroid body myopathy", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> autosomal dominant limb-girdle muscular dystrophy", "source": "diseases.json"}
+{"description": "neuromuscular junction disease -> congenital myasthenic syndrome -> congenital myasthenic syndrome 4B", "source": "diseases.json"}
+{"description": "central nervous system cancer -> meningioma -> clear cell meningioma", "source": "diseases.json"}
+{"description": "vulva carcinoma -> Bartholin's gland carcinoma -> Bartholin's gland adenoid cystic carcinoma", "source": "diseases.json"}
+{"description": "coronary artery disease -> myocardial infarction -> inferolateral myocardial infarct", "source": "diseases.json"}
+{"description": "otitis media -> non-suppurative otitis media -> serous glue ear", "source": "diseases.json"}
+{"description": "encephalomyelitis -> acute disseminated encephalomyelitis -> acute hemorrhagic leukoencephalitis", "source": "diseases.json"}
+{"description": "food allergy -> fruit allergy -> tomato allergy", "source": "diseases.json"}
+{"description": "squamous cell carcinoma -> malignant mesothelioma -> sarcomatoid mesothelioma", "source": "diseases.json"}
+{"description": "lung disease -> respiratory failure -> adult respiratory distress syndrome", "source": "diseases.json"}
+{"description": "hypogonadism -> hypogonadotropic hypogonadism -> hypogonadotropic hypogonadism 15 with or without anosmia", "source": "diseases.json"}
+{"description": "intestinal disease -> diverticulitis -> small intestine diverticulitis", "source": "diseases.json"}
+{"description": "meningioma -> foramen magnum meningioma -> anterior foramen magnum meningioma", "source": "diseases.json"}
+{"description": "hematologic cancer -> lymphoma -> lung lymphoma", "source": "diseases.json"}
+{"description": "female reproductive organ benign neoplasm -> uterine benign neoplasm -> endometrial stromal nodule", "source": "diseases.json"}
+{"description": "bone development disease -> osteochondrodysplasia -> achondroplasia", "source": "diseases.json"}
+{"description": "calcium metabolism disease -> calcinosis -> normophosphatemic familial tumoral calcinosis", "source": "diseases.json"}
+{"description": "syndromic intellectual disability -> syndromic X-linked intellectual disability -> syndromic X-linked intellectual disability Turner type", "source": "diseases.json"}
+{"description": "personality disorder -> obsessive-compulsive personality disorder", "source": "diseases.json"}
+{"description": "bone structure disease -> scoliosis -> idiopathic scoliosis", "source": "diseases.json"}
+{"description": "gastrointestinal system disease -> gallbladder disease -> biliary dyskinesia", "source": "diseases.json"}
+{"description": "eye disease -> amblyopia -> suppression amblyopia", "source": "diseases.json"}
+{"description": "intestinal benign neoplasm -> anus benign neoplasm -> anal gland neoplasm", "source": "diseases.json"}
+{"description": "renal cell carcinoma -> chromophobe renal cell carcinoma -> eosinophilic variant of chromophobe renal cell carcinoma", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> adenoma -> clear cell adenoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> neurofibromatosis", "source": "diseases.json"}
+{"description": "interstitial lung disease -> pneumoconiosis -> asbestosis", "source": "diseases.json"}
+{"description": "integumentary system disease -> nail disease -> anonychia congenita", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> drug allergy -> abacavir allergy", "source": "diseases.json"}
+{"description": "muscular dystrophy -> distal muscular dystrophy -> infantile-onset distal myopathy", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> drug allergy -> amodiaquine allergy", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> triple-A syndrome", "source": "diseases.json"}
+{"description": "intrinsic cardiomyopathy -> dilated cardiomyopathy -> dilated cardiomyopathy 1JJ", "source": "diseases.json"}
+{"description": "coronary artery disease -> myocardial infarction -> apical myocardial infarction", "source": "diseases.json"}
+{"description": "fallopian tube cancer -> fallopian tube carcinoma -> fallopian tube gestational choriocarcinoma", "source": "diseases.json"}
+{"description": "muscle tissue disease -> myopathy -> myopathy of extraocular muscle", "source": "diseases.json"}
+{"description": "gastric adenocarcinoma -> gastric diffuse adenocarcinoma -> linitis plastica", "source": "diseases.json"}
+{"description": "diabetes mellitus -> type 2 diabetes mellitus -> diabetic ketoacidosis", "source": "diseases.json"}
+{"description": "skin disease -> lipomatosis -> pelvic lipomatosis", "source": "diseases.json"}
+{"description": "lower respiratory tract disease -> bronchial disease -> bronchiolitis obliterans", "source": "diseases.json"}
+{"description": "mouth disease -> salivary gland disease -> sialadenitis", "source": "diseases.json"}
+{"description": "organ system benign neoplasm -> gastrointestinal system benign neoplasm -> gastric leiomyoma", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> amino acid metabolic disorder -> Bh4-deficient hyperphenylalaninemia A", "source": "diseases.json"}
+{"description": "malignant glioma -> spinal cord glioma -> adult spinal cord glioblastoma multiforme", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> bilirubin metabolic disorder -> Crigler-Najjar syndrome", "source": "diseases.json"}
+{"description": "central nervous system teratoma -> adult central nervous system teratoma -> adult central nervous system immature teratoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> Costello syndrome", "source": "diseases.json"}
+{"description": "heart conduction disease -> progressive familial heart block -> progressive familial heart block type IA", "source": "diseases.json"}
+{"description": "brain disease -> encephalitis -> acute hemorrhagic encephalitis", "source": "diseases.json"}
+{"description": "anus disease -> anus cancer -> malignant anus melanoma", "source": "diseases.json"}
+{"description": "anemia -> aplastic anemia -> pure red-cell aplasia", "source": "diseases.json"}
+{"description": "parasitic infectious disease -> parasitic helminthiasis infectious disease -> gnathomiasis", "source": "diseases.json"}
+{"description": "absence epilepsy -> childhood electroclinical syndrome -> Landau-Kleffner syndrome", "source": "diseases.json"}
+{"description": "glycogen storage disease -> glycogen storage disease IX -> glycogen storage disease IXa", "source": "diseases.json"}
+{"description": "breast disease -> breast cancer -> male breast cancer", "source": "diseases.json"}
+{"description": "ampulla of Vater cancer -> ampulla of Vater carcinoma -> ampulla of Vater small cell carcinoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> Warburg micro syndrome", "source": "diseases.json"}
+{"description": "palmoplantar keratosis -> punctate palmoplantar keratoderma -> punctate palmoplantar keratoderma type II", "source": "diseases.json"}
+{"description": "ovarian cancer -> ovary epithelial cancer -> ovarian mucinous neoplasm", "source": "diseases.json"}
+{"description": "gastrointestinal allergy -> food allergy -> wheat allergy", "source": "diseases.json"}
+{"description": "congenital hypoplastic anemia -> Fanconi anemia -> Fanconi anemia complementation group G", "source": "diseases.json"}
+{"description": "parasitic protozoa infectious disease -> leishmaniasis -> visceral leishmaniasis", "source": "diseases.json"}
+{"description": "eye disease -> eye degenerative disease -> leukocoria", "source": "diseases.json"}
+{"description": "polycythemia -> acquired polycythemia -> dehydration polycythemia", "source": "diseases.json"}
+{"description": "ovarian disease -> ovarian cancer -> ovarian melanoma", "source": "diseases.json"}
+{"description": "cell type cancer -> carcinoma -> colorectal carcinoma", "source": "diseases.json"}
+{"description": "Usher syndrome -> Usher syndrome type 1 -> Usher syndrome type 1C", "source": "diseases.json"}
+{"description": "neuroma -> neurilemmoma -> acoustic neuroma", "source": "diseases.json"}
+{"description": "rectal disease -> anus disease -> anal spasm", "source": "diseases.json"}
+{"description": "communication disorder -> agnosia -> associative agnosia", "source": "diseases.json"}
+{"description": "squamous cell carcinoma -> anal squamous cell carcinoma -> anal Buschke-Lowenstein tumor", "source": "diseases.json"}
+{"description": "heart disease -> heart conduction disease -> short QT syndrome", "source": "diseases.json"}
+{"description": "central nervous system teratoma -> central nervous system mature teratoma -> childhood central nervous system mature teratoma", "source": "diseases.json"}
+{"description": "vascular disease -> hepatic vascular disease -> hepatic veno-occlusive disease", "source": "diseases.json"}
+{"description": "parasitic infectious disease -> parasitic helminthiasis infectious disease -> mesocestoidiasis", "source": "diseases.json"}
+{"description": "anemia -> microcytic anemia -> hypochromic microcytic anemia", "source": "diseases.json"}
+{"description": "mixed cell type cancer -> carcinosarcoma -> adenosarcoma", "source": "diseases.json"}
+{"description": "viral infectious disease -> West Nile encephalitis -> Kunjin encephalitis", "source": "diseases.json"}
+{"description": "colonic disease -> megacolon -> toxic megacolon", "source": "diseases.json"}
+{"description": "female reproductive system disease -> uterine disease -> chronic subinvolution of uterus", "source": "diseases.json"}
+{"description": "ovarian cancer -> ovary epithelial cancer -> Krukenberg carcinoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> Donohue syndrome", "source": "diseases.json"}
+{"description": "female reproductive system disease -> vulvar disease -> vulvitis", "source": "diseases.json"}
+{"description": "intrinsic cardiomyopathy -> dilated cardiomyopathy -> dilated cardiomyopathy 2A", "source": "diseases.json"}
+{"description": "dermatitis -> contact dermatitis -> occupational dermatitis", "source": "diseases.json"}
+{"description": "hereditary night blindness -> congenital stationary night blindness -> congenital stationary night blindness 2A", "source": "diseases.json"}
+{"description": "opportunistic mycosis -> candidiasis -> chronic mucocutaneous candidiasis", "source": "diseases.json"}
+{"description": "skull base cancer -> skull base meningioma -> sphenoorbital meningioma", "source": "diseases.json"}
+{"description": "endocrine gland cancer -> testicular cancer -> spermatocytoma", "source": "diseases.json"}
+{"description": "central nervous system cancer -> brain cancer -> cerebral neuroblastoma", "source": "diseases.json"}
+{"description": "parasitic infectious disease -> parasitic protozoa infectious disease -> amebiasis", "source": "diseases.json"}
+{"description": "liver disease -> hepatitis -> viral hepatitis", "source": "diseases.json"}
+{"description": "capillary disease -> capillary hemangioma -> stork bite", "source": "diseases.json"}
+{"description": "squamous cell carcinoma -> cervical squamous cell carcinoma -> cervical basaloid squamous cell carcinoma", "source": "diseases.json"}
+{"description": "infratentorial cancer -> medulloblastoma -> adult medulloblastoma", "source": "diseases.json"}
+{"description": "skin disease -> cutaneous lupus erythematosus -> Chilblain lupus", "source": "diseases.json"}
+{"description": "hypersensitivity reaction type IV disease -> sarcoidosis -> uveoparotid fever", "source": "diseases.json"}
+{"description": "leukemia -> aleukemic leukemia -> aleukemic leukemia cutis", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> immunodeficiency-centromeric instability-facial anomalies syndrome", "source": "diseases.json"}
+{"description": "cataract -> senile cataract -> immature cataract", "source": "diseases.json"}
+{"description": "urinary system cancer -> urethra cancer -> female urethral cancer", "source": "diseases.json"}
+{"description": "gangliosidosis -> gangliosidosis GM2 -> Tay-Sachs disease", "source": "diseases.json"}
+{"description": "central nervous system disease -> brain disease -> encephalitis", "source": "diseases.json"}
+{"description": "systemic mycosis -> opportunistic mycosis -> penicilliosis", "source": "diseases.json"}
+{"description": "cell type cancer -> carcinoma -> brain stem angioblastoma", "source": "diseases.json"}
+{"description": "eye disease -> scleral disease -> scleromalacia perforans", "source": "diseases.json"}
+{"description": "vaginal benign neoplasm -> vaginal adenoma -> vaginal villous adenoma", "source": "diseases.json"}
+{"description": "uveal disease -> uveitis -> suppurative uveitis", "source": "diseases.json"}
+{"description": "Charcot-Marie-Tooth disease -> Charcot-Marie-Tooth disease type 2 -> Charcot-Marie-Tooth disease, axonal type 2W", "source": "diseases.json"}
+{"description": "urinary system disease -> urethral disease -> urethral false passage", "source": "diseases.json"}
+{"description": "endocrine system disease -> adrenal gland disease -> Waterhouse-Friderichsen syndrome", "source": "diseases.json"}
+{"description": "pre-malignant neoplasm -> corneal intraepithelial neoplasm", "source": "diseases.json"}
+{"description": "large intestine cancer -> anal canal cancer -> anal canal carcinoma", "source": "diseases.json"}
+{"description": "ovarian disease -> oophoritis -> salpingo-oophoritis", "source": "diseases.json"}
+{"description": "middle ear disease -> cholesteatoma of middle ear -> cholesteatoma of attic", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> Bart-Pumphrey syndrome", "source": "diseases.json"}
+{"description": "connective tissue benign neoplasm -> bone benign neoplasm -> ossifying fibroma", "source": "diseases.json"}
+{"description": "cell type cancer -> osteosarcoma -> fibrosarcoma of bone", "source": "diseases.json"}
+{"description": "hematologic cancer -> leukemia -> subleukemic leukemia", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> Roberts syndrome", "source": "diseases.json"}
+{"description": "artery disease -> arteriosclerosis -> arteriolosclerosis", "source": "diseases.json"}
+{"description": "blood coagulation disease -> inherited blood coagulation disease -> von Willebrand's disease", "source": "diseases.json"}
+{"description": "periodontitis -> periapical periodontitis -> chronic apical periodontitis", "source": "diseases.json"}
+{"description": "pancreatic adenocarcinoma -> pancreatic intraductal papillary-colloid carcinoma -> pancreatic non-invasive intraductal papillary-mucinous carcinoma", "source": "diseases.json"}
+{"description": "synostosis -> craniosynostosis -> Crouzon syndrome", "source": "diseases.json"}
+{"description": "integumentary system disease -> skin disease -> lichen disease", "source": "diseases.json"}
+{"description": "sarcoma -> ovary sarcoma -> ovarian endometrioid stromal sarcoma", "source": "diseases.json"}
+{"description": "ureteral disease -> ureter cancer -> ureter small cell carcinoma", "source": "diseases.json"}
+{"description": "synostosis -> acrocephalosyndactylia -> Pfeiffer syndrome", "source": "diseases.json"}
+{"description": "fibrosarcoma -> pediatric fibrosarcoma -> congenital fibrosarcoma", "source": "diseases.json"}
+{"description": "renal carcinoma -> renal cell carcinoma -> hereditary renal cell carcinoma", "source": "diseases.json"}
+{"description": "cerebrovascular disease -> brain infarction -> cerebral infarction", "source": "diseases.json"}
+{"description": "syphilis -> congenital syphilis -> late congenital syphilis", "source": "diseases.json"}
+{"description": "bile duct disease -> cholestasis -> obstructive jaundice", "source": "diseases.json"}
+{"description": "viral infectious disease -> Zika fever", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> autosomal dominant hypophosphatemic rickets", "source": "diseases.json"}
+{"description": "primary bacterial infectious disease -> tularemia -> ulceroglandular tularemia", "source": "diseases.json"}
+{"description": "disease by infectious agent -> viral infectious disease -> Western equine encephalitis", "source": "diseases.json"}
+{"description": "skeletal muscle cancer -> rhabdomyosarcoma -> alveolar rhabdomyosarcoma", "source": "diseases.json"}
+{"description": "kidney disease -> hemorrhagic fever with renal syndrome -> nephropathia epidemica", "source": "diseases.json"}
+{"description": "larynx cancer -> laryngeal carcinoma -> laryngeal mucoepidermoid carcinoma", "source": "diseases.json"}
+{"description": "metal metabolism disorder -> molybdenum cofactor deficiency -> molybdenum cofactor deficiency type B", "source": "diseases.json"}
+{"description": "female reproductive organ benign neoplasm -> uterine benign neoplasm -> uterine corpus leiomyomatosis", "source": "diseases.json"}
+{"description": "mouth disease -> salivary gland disease -> necrotizing sialometaplasia", "source": "diseases.json"}
+{"description": "intestinal benign neoplasm -> colonic benign neoplasm -> colon neuroendocrine neoplasm", "source": "diseases.json"}
+{"description": "porphyria -> acute porphyria -> porphyria cutanea tarda", "source": "diseases.json"}
+{"description": "eye disease -> amblyopia -> disuse amblyopia", "source": "diseases.json"}
+{"description": "male reproductive system disease -> prostate disease -> atrophy of prostate", "source": "diseases.json"}
+{"description": "bacterial infectious disease -> primary bacterial infectious disease -> relapsing fever", "source": "diseases.json"}
+{"description": "intrinsic cardiomyopathy -> dilated cardiomyopathy -> dilated cardiomyopathy 1Q", "source": "diseases.json"}
+{"description": "respiratory system benign neoplasm -> bronchial neoplasm -> bronchus adenoma", "source": "diseases.json"}
+{"description": "mouth disease -> tooth disease -> dental pulp disease", "source": "diseases.json"}
+{"description": "malignant ovarian germ cell neoplasm -> ovarian primitive germ cell tumor -> non-gestational ovarian choriocarcinoma", "source": "diseases.json"}
+{"description": "eye adnexa disease -> eyelid disease -> blepharochalasis", "source": "diseases.json"}
+{"description": "X-linked monogenic disease -> X-linked recessive disease -> X-linked adrenal hypoplasia congenita", "source": "diseases.json"}
+{"description": "carcinoma -> squamous cell carcinoma -> keratinizing squamous cell carcinoma", "source": "diseases.json"}
+{"description": "vulva cancer -> vulvar sarcoma -> vulvar alveolar soft part sarcoma", "source": "diseases.json"}
+{"description": "adenocarcinoma -> gallbladder adenocarcinoma -> gallbladder pleomorphic giant cell adenocarcinoma", "source": "diseases.json"}
+{"description": "cell type cancer -> sarcoma -> thyroid sarcoma", "source": "diseases.json"}
+{"description": "autosomal dominant disease -> Waardenburg's syndrome -> Waardenburg syndrome type 2A", "source": "diseases.json"}
+{"description": "thoracic benign neoplasm -> breast benign neoplasm -> breast fibroadenosis", "source": "diseases.json"}
+{"description": "salivary gland disease -> salivary gland cancer -> pleomorphic adenoma carcinoma", "source": "diseases.json"}
+{"description": "bone disease -> bone remodeling disease -> osteomalacia", "source": "diseases.json"}
+{"description": "glaucoma -> open-angle glaucoma -> residual stage of open angle glaucoma", "source": "diseases.json"}
+{"description": "central nervous system disease -> central nervous system vasculitis -> temporal arteritis", "source": "diseases.json"}
+{"description": "breast carcinoma -> bilateral breast cancer -> synchronous bilateral breast carcinoma", "source": "diseases.json"}
+{"description": "Charcot-Marie-Tooth disease -> Charcot-Marie-Tooth disease type 4 -> Charcot-Marie-Tooth disease type 4G", "source": "diseases.json"}
+{"description": "eye disease -> amblyopia -> ametropic amblyopia", "source": "diseases.json"}
+{"description": "myeloid neoplasm -> myeloproliferative neoplasm -> transient myeloproliferative syndrome", "source": "diseases.json"}
+{"description": "integumentary system disease -> skin disease -> epidermolytic hyperkeratosis", "source": "diseases.json"}
+{"description": "orofacial cleft -> cleft palate -> isolated cleft palate", "source": "diseases.json"}
+{"description": "squamous cell carcinoma -> bladder squamous cell carcinoma -> bladder verrucous squamous cell carcinoma", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> drug allergy -> rocuronium allergy", "source": "diseases.json"}
+{"description": "parasitic protozoa infectious disease -> coccidiosis -> cyclosporiasis", "source": "diseases.json"}
+{"description": "cell type cancer -> sarcoma -> pancreas sarcoma", "source": "diseases.json"}
+{"description": "musculoskeletal system disease -> connective tissue disease -> plantar fascial fibromatosis", "source": "diseases.json"}
+{"description": "autosomal recessive disease -> xeroderma pigmentosum -> xeroderma pigmentosum group C", "source": "diseases.json"}
+{"description": "adenocarcinoma -> follicular thyroid carcinoma -> thyroid medullary carcinoma", "source": "diseases.json"}
+{"description": "pancreatic adenocarcinoma -> pancreatic ductal adenocarcinoma -> osteoclast-like giant cell neoplasm of the pancreas", "source": "diseases.json"}
+{"description": "malignant glioma -> brain stem glioma -> adult brain stem glioma", "source": "diseases.json"}
+{"description": "female reproductive system disease -> endometriosis -> endometriosis of pelvic peritoneum", "source": "diseases.json"}
+{"description": "kidney disease -> kidney benign neoplasm -> nephrogenic adenoma", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> drug allergy -> aspirin allergy", "source": "diseases.json"}
+{"description": "neuropathy -> mononeuropathy -> radial neuropathy", "source": "diseases.json"}
+{"description": "heart conduction disease -> atrial fibrillation -> familial atrial fibrillation", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> carbohydrate metabolic disorder -> pyruvate carboxylase deficiency disease", "source": "diseases.json"}
+{"description": "endocrine organ benign neoplasm -> parathyroid adenoma -> parathyroid transitional clear cell adenoma", "source": "diseases.json"}
+{"description": "paranasal sinus neoplasm -> maxillary sinus neoplasm -> maxillary sinus inverted papilloma", "source": "diseases.json"}
+{"description": "organic acidemia -> methylmalonic acidemia -> methylmalonic acidemia due to transcobalamin receptor defect", "source": "diseases.json"}
+{"description": "macular degeneration -> degeneration of macula and posterior pole -> toxic maculopathy", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> hemangioma -> hemangioma of lung", "source": "diseases.json"}
+{"description": "pyelitis -> pyelonephritis -> chronic pyelonephritis", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> amino acid metabolic disorder -> homocystinuria", "source": "diseases.json"}
+{"description": "carcinoma -> thymic carcinoma -> lymphoepithelioma-like thymic carcinoma", "source": "diseases.json"}
+{"description": "thyroid adenoma -> follicular adenoma -> colloid adenoma", "source": "diseases.json"}
+{"description": "orbital disease -> endocrine exophthalmos -> exophthalmic ophthalmoplegia", "source": "diseases.json"}
+{"description": "male reproductive system disease -> prostate disease -> prostatic hypertrophy", "source": "diseases.json"}
+{"description": "sexual disorder -> psychosexual disorder -> psychologic vaginismus", "source": "diseases.json"}
+{"description": "hair disease -> hypotrichosis -> alopecia", "source": "diseases.json"}
+{"description": "central nervous system cancer -> cranial nerve neoplasm -> vagus nerve neoplasm", "source": "diseases.json"}
+{"description": "gastrointestinal system cancer -> oral cavity cancer -> soft palate cancer", "source": "diseases.json"}
+{"description": "lung disease -> pneumonia -> idiopathic interstitial pneumonia", "source": "diseases.json"}
+{"description": "prostate cancer -> prostate carcinoma -> prostate squamous cell carcinoma", "source": "diseases.json"}
+{"description": "eye disease -> lacrimal apparatus disease -> stenosis of lacrimal sac", "source": "diseases.json"}
+{"description": "bone development disease -> osteochondrodysplasia -> metaphyseal dysplasia", "source": "diseases.json"}
+{"description": "cardiovascular system disease -> vascular disease -> supine hypotensive syndrome", "source": "diseases.json"}
+{"description": "paranasal sinus cancer -> ethmoid sinus cancer -> ethmoid sinus adenoid cystic carcinoma", "source": "diseases.json"}
+{"description": "hereditary sensory neuropathy -> hereditary sensory and autonomic neuropathy type 1 -> hereditary sensory and autonomic neuropathy type 1A", "source": "diseases.json"}
+{"description": "central nervous system cancer -> meningioma -> rhabdoid meningioma", "source": "diseases.json"}
+{"description": "meningitis -> bacterial meningitis -> anaerobic meningitis", "source": "diseases.json"}
+{"description": "uterine disease -> placenta disease -> polyhydramnios", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> purine-pyrimidine metabolic disorder -> xanthinuria", "source": "diseases.json"}
+{"description": "gingival disease -> gingival overgrowth -> epulis", "source": "diseases.json"}
+{"description": "paranasal sinus neoplasm -> sphenoidal sinus neoplasm -> sphenoid sinus Schneiderian papilloma", "source": "diseases.json"}
+{"description": "eyelid disease -> lagophthalmos -> cicatricial lagophthalmos", "source": "diseases.json"}
+{"description": "melanoma -> epithelioid cell melanoma -> uveal epithelioid cell melanoma", "source": "diseases.json"}
+{"description": "nephritis -> glomerulonephritis -> membranoproliferative glomerulonephritis", "source": "diseases.json"}
+{"description": "organ system benign neoplasm -> endocrine organ benign neoplasm -> pheochromocytoma", "source": "diseases.json"}
+{"description": "carcinoma -> squamous cell carcinoma -> adenoid squamous cell carcinoma", "source": "diseases.json"}
+{"description": "mononeuritis -> mononeuritis of upper limb and mononeuritis multiplex -> mononeuritis multiplex", "source": "diseases.json"}
+{"description": "cervicitis -> chronic cervicitis -> chronic gonorrhea of cervix", "source": "diseases.json"}
+{"description": "ovarian disease -> ovarian cancer -> dysgerminoma", "source": "diseases.json"}
+{"description": "lacrimal apparatus disease -> acute inflammation of lacrimal passage -> dacryocystitis", "source": "diseases.json"}
+{"description": "neuromuscular junction disease -> congenital myasthenic syndrome -> congenital myasthenic syndrome 3B", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> porphyria -> acute porphyria", "source": "diseases.json"}
+{"description": "kidney cancer -> nephroblastoma -> stromal predominant kidney Wilms' tumor", "source": "diseases.json"}
+{"description": "central nervous system cancer -> meningioma -> microcystic meningioma", "source": "diseases.json"}
+{"description": "ovarian disease -> ovarian cancer -> ovarian embryonal carcinoma", "source": "diseases.json"}
+{"description": "breast cancer -> female breast cancer -> female breast central part cancer", "source": "diseases.json"}
+{"description": "heart septal defect -> atrial heart septal defect -> Lutembacher's syndrome", "source": "diseases.json"}
+{"description": "mood disorder -> mental depression -> melancholia", "source": "diseases.json"}
+{"description": "bladder adenocarcinoma -> bladder clear cell adenocarcinoma -> bladder diffuse clear cell adenocarcinoma", "source": "diseases.json"}
+{"description": "eye disease -> corneal disease -> sclerocornea", "source": "diseases.json"}
+{"description": "drug allergy -> beta-lactam allergy -> penicillin allergy", "source": "diseases.json"}
+{"description": "colonic disease -> colon cancer -> transverse colon cancer", "source": "diseases.json"}
+{"description": "inherited metabolic disorder -> amino acid metabolic disorder -> carbamoyl phosphate synthetase I deficiency disease", "source": "diseases.json"}
+{"description": "peripheral T-cell lymphoma -> cutaneous T cell lymphoma -> mycosis fungoides", "source": "diseases.json"}
+{"description": "retinal cell cancer -> retinoblastoma -> intraocular retinoblastoma", "source": "diseases.json"}
+{"description": "cell type cancer -> osteosarcoma -> bone angioendothelial sarcoma", "source": "diseases.json"}
+{"description": "eye disease -> fundus dystrophy -> retinal dystrophies primarily involving Bruch's membrane", "source": "diseases.json"}
+{"description": "neuroectodermal tumor -> central nervous system primitive neuroectodermal neoplasm -> spinal cord primitive neuroectodermal neoplasm", "source": "diseases.json"}
+{"description": "bone development disease -> osteochondrodysplasia -> hypochondrogenesis", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> Chediak-Higashi syndrome", "source": "diseases.json"}
+{"description": "renal adenoma -> chromophil adenoma of the kidney -> type 1 papillary adenoma of the kidney", "source": "diseases.json"}
+{"description": "female reproductive system disease -> prolapse of female genital organ -> perineocele", "source": "diseases.json"}
+{"description": "food allergy -> fruit allergy -> peach allergy", "source": "diseases.json"}
+{"description": "carcinoma -> skin carcinoma -> Merkel cell carcinoma", "source": "diseases.json"}
+{"description": "tuberculosis -> extrapulmonary tuberculosis -> skeletal tuberculosis", "source": "diseases.json"}
+{"description": "speech disorder -> articulation disorder -> stuttering", "source": "diseases.json"}
+{"description": "gonadal disease -> testicular disease -> atrophy of testis", "source": "diseases.json"}
+{"description": "chromosomal disease -> Edwards syndrome", "source": "diseases.json"}
+{"description": "thoracic cancer -> mediastinal cancer -> posterior mediastinum cancer", "source": "diseases.json"}
+{"description": "lipid storage disease -> lysosomal and lipase deficiency -> cholesterol ester storage disease", "source": "diseases.json"}
+{"description": "autosomal recessive disease -> autosomal recessive limb-girdle muscular dystrophy -> autosomal recessive limb-girdle muscular dystrophy type 2C", "source": "diseases.json"}
+{"description": "blood coagulation disease -> thrombophilia -> protein S deficiency", "source": "diseases.json"}
+{"description": "impulse control disorder -> pathological gambling", "source": "diseases.json"}
+{"description": "mixed cell type cancer -> endodermal sinus tumor -> adult endodermal sinus tumor", "source": "diseases.json"}
+{"description": "endocrine organ benign neoplasm -> pituitary adenoma -> acidophil adenoma", "source": "diseases.json"}
+{"description": "skin disease -> sebaceous gland disease -> follicular mucinosis", "source": "diseases.json"}
+{"description": "gastrointestinal system disease -> peptic ulcer disease -> peptic ulcer perforation", "source": "diseases.json"}
+{"description": "myeloid neoplasm -> multiple myeloma -> smoldering myeloma", "source": "diseases.json"}
+{"description": "malignant ovarian surface epithelial-stromal neoplasm -> ovarian carcinoma -> ovarian clear cell carcinoma", "source": "diseases.json"}
+{"description": "germ cell and embryonal cancer -> central nervous system teratoma -> central nervous system immature teratoma", "source": "diseases.json"}
+{"description": "colon cancer -> colon carcinoma -> medullary colon carcinoma", "source": "diseases.json"}
+{"description": "corneal disease -> corneal dystrophy -> Chandler syndrome", "source": "diseases.json"}
+{"description": "intestinal cancer -> appendix cancer -> appendix carcinoid tumor", "source": "diseases.json"}
+{"description": "nutrition disease -> nutritional deficiency disease -> scurvy", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> Andersen-Tawil syndrome", "source": "diseases.json"}
+{"description": "testicular non-seminomatous germ cell cancer -> testicular yolk sac tumor -> macrocystic pattern testicular yolk sac tumor", "source": "diseases.json"}
+{"description": "primary immunodeficiency disease -> complement deficiency -> atypical hemolytic-uremic syndrome", "source": "diseases.json"}
+{"description": "childhood kidney cancer -> congenital mesoblastic nephroma -> classic congenital mesoblastic nephroma", "source": "diseases.json"}
+{"description": "genetic disease -> monogenic disease -> amyotrophic lateral sclerosis", "source": "diseases.json"}
+{"description": "parasitic helminthiasis infectious disease -> echinococcosis -> alveolar echinococcosis", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal dominant disease -> paraganglioma", "source": "diseases.json"}
+{"description": "cranial nerve neoplasm -> trigeminal nerve neoplasm -> neurilemmoma of the fifth cranial nerve", "source": "diseases.json"}
+{"description": "lysosomal storage disease -> mucopolysaccharidosis -> Sly syndrome", "source": "diseases.json"}
+{"description": "breast cancer -> breast sarcoma -> breast leiomyosarcoma", "source": "diseases.json"}
+{"description": "neuroma -> neurilemmoma -> macrocystic neurilemmoma", "source": "diseases.json"}
+{"description": "chromosomal disease -> chromosomal duplication syndrome -> chromosome 3q29 microduplication syndrome", "source": "diseases.json"}
+{"description": "bile duct disease -> cholangitis -> pericholangitis", "source": "diseases.json"}
+{"description": "X-linked monogenic disease -> X-linked recessive disease -> CD40 ligand deficiency", "source": "diseases.json"}
+{"description": "chronic obstructive pulmonary disease -> pulmonary emphysema -> interstitial emphysema", "source": "diseases.json"}
+{"description": "combined T cell and B cell immunodeficiency -> severe combined immunodeficiency -> interleukin-7 receptor alpha deficiency", "source": "diseases.json"}
+{"description": "cecum cancer -> cecum carcinoma -> cecum adenocarcinoma", "source": "diseases.json"}
+{"description": "dystonia -> focal dystonia -> spasmodic dystonia", "source": "diseases.json"}
+{"description": "sweat gland cancer -> eccrine sweat gland cancer -> malignant spiradenoma", "source": "diseases.json"}
+{"description": "bone marrow cancer -> myeloid neoplasm -> myelodysplastic/myeloproliferative neoplasm", "source": "diseases.json"}
+{"description": "neurodegenerative disease -> neuroacanthocytosis -> choreaacanthocytosis", "source": "diseases.json"}
+{"description": "female reproductive organ benign neoplasm -> ovarian benign neoplasm -> ovarian mucinous adenofibroma", "source": "diseases.json"}
+{"description": "X-linked monogenic disease -> X-linked recessive disease -> X-linked severe combined immunodeficiency", "source": "diseases.json"}
+{"description": "cutaneous mycosis -> dermatomycosis -> eumycotic mycetoma", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> acromesomelic dysplasia, Grebe type", "source": "diseases.json"}
+{"description": "glaucoma -> open-angle glaucoma -> juvenile glaucoma", "source": "diseases.json"}
+{"description": "myeloid neoplasm -> myelodysplastic/myeloproliferative neoplasm -> juvenile myelomonocytic leukemia", "source": "diseases.json"}
+{"description": "drug dependence -> opiate dependence -> heroin dependence", "source": "diseases.json"}
+{"description": "chondrosarcoma -> myxoid chondrosarcoma -> pediatric myxoid chondrosarcoma", "source": "diseases.json"}
+{"description": "corneal disease -> corneal degeneration -> keratomalacia", "source": "diseases.json"}
+{"description": "eye disease -> corneal disease -> cornea plana", "source": "diseases.json"}
+{"description": "endocrine system disease -> parathyroid gland disease -> hypoparathyroidism", "source": "diseases.json"}
+{"description": "bacterial infectious disease -> primary bacterial infectious disease -> pinta disease", "source": "diseases.json"}
+{"description": "male reproductive system disease -> male infertility -> azoospermia", "source": "diseases.json"}
+{"description": "chromosomal disease -> chromosomal duplication syndrome -> chromosome 22q11.2 microduplication syndrome", "source": "diseases.json"}
+{"description": "neuropathy -> cranial nerve disease -> trigeminal nerve disease", "source": "diseases.json"}
+{"description": "specific developmental disorder -> fetal alcohol spectrum disorder -> alcohol-related neurodevelopmental disorder", "source": "diseases.json"}
+{"description": "allergic hypersensitivity disease -> allergic contact dermatitis -> N,N'-diphenylthiourea allergic contact dermatitis", "source": "diseases.json"}
+{"description": "perivascular tumor -> perivascular epithelioid cell tumor -> uterus perivascular epithelioid cell tumor", "source": "diseases.json"}
+{"description": "autosomal genetic disease -> autosomal recessive disease -> amelogenesis imperfecta type 1F", "source": "diseases.json"}
+{"description": "eye disease -> corneal disease -> cornea cancer", "source": "diseases.json"}
+{"description": "carcinoma -> adenocarcinoma -> lung combined type small cell adenocarcinoma", "source": "diseases.json"}
+{"description": "hemorrhagic disease -> purpura -> purpura fulminans", "source": "diseases.json"}
+{"description": "lymphedema -> elephantiasis -> podoconiosis", "source": "diseases.json"}
+{"description": "thoracic benign neoplasm -> breast benign neoplasm -> breast fibroadenoma", "source": "diseases.json"}
+{"description": "melanoma -> skin melanoma -> balloon cell malignant melanoma", "source": "diseases.json"}
+{"description": "congenital disorder of glycosylation -> congenital disorder of glycosylation type II -> congenital disorder of glycosylation type IIb", "source": "diseases.json"}
+{"description": "myopathy -> mitochondrial myopathy -> chronic progressive external ophthalmoplegia", "source": "diseases.json"}
+{"description": "retinal cell cancer -> retinoblastoma -> trilateral retinoblastoma", "source": "diseases.json"}
+{"description": "musculoskeletal system disease -> connective tissue disease -> mucinoses", "source": "diseases.json"}
+{"description": "sensory system cancer -> ocular cancer -> eye carcinoma", "source": "diseases.json"}
+{"description": "cell type cancer -> malignant glioma -> pineal gland astrocytoma", "source": "diseases.json"}
+{"description": "vascular disease -> capillary disease -> gastric antral vascular ectasia", "source": "diseases.json"}
+{"description": "pancreatic cancer -> islet cell tumor -> non-functioning pancreatic endocrine tumor", "source": "diseases.json"}
+{"description": "smooth muscle cancer -> leiomyosarcoma -> bone leiomyosarcoma", "source": "diseases.json"}
+{"description": "lacrimal gland cancer -> lacrimal gland carcinoma -> lacrimal gland adenocarcinoma", "source": "diseases.json"}
+{"description": "aortic valve disease -> aortic valve stenosis -> supravalvular aortic stenosis", "source": "diseases.json"}
+{"description": "breast carcinoma -> breast adenocarcinoma -> mammary Paget's disease", "source": "diseases.json"}
+{"description": "connective tissue cancer -> chondrosarcoma -> myxoid chondrosarcoma", "source": "diseases.json"}
+{"description": "parasitic infectious disease -> parasitic protozoa infectious disease -> trypanosomiasis", "source": "diseases.json"}
+{"description": "eye disease -> retinal disease -> proliferative vitreoretinopathy", "source": "diseases.json"}
+{"description": "malignant glioma -> mixed glioma -> mixed astrocytoma-ependymoma-oligodendroglioma", "source": "diseases.json"}
+{"description": "transitional cell carcinoma -> bladder urothelial carcinoma -> bladder urothelial papillary carcinoma", "source": "diseases.json"}
+{"description": "reproductive system disease -> female reproductive system disease -> Masters-Allen syndrome", "source": "diseases.json"}
+{"description": "respiratory system benign neoplasm -> laryngeal benign neoplasm -> larynx squamous papilloma", "source": "diseases.json"}
+{"description": "cranial nerve disease -> glossopharyngeal nerve disease -> multiple cranial nerve palsy", "source": "diseases.json"}
+{"description": "cell type cancer -> sarcoma -> leptomeninges sarcoma", "source": "diseases.json"}
+{"description": "parasitic helminthiasis infectious disease -> filariasis -> loiasis", "source": "diseases.json"}
+{"description": "heart disease -> heart conduction disease -> progressive familial heart block", "source": "diseases.json"}
+{"description": "squamous cell carcinoma -> cervical squamous cell carcinoma -> cervical keratinizing squamous cell carcinoma", "source": "diseases.json"}
+{"description": "ciliary body cancer -> malignant ciliary body melanoma -> intermediate cell type ciliary body melanoma", "source": "diseases.json"}
+{"description": "intrinsic cardiomyopathy -> dilated cardiomyopathy -> dilated cardiomyopathy 1W", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> benign mesothelioma -> adenomatoid tumor", "source": "diseases.json"}
+{"description": "scleroderma -> systemic scleroderma -> diffuse scleroderma", "source": "diseases.json"}
+{"description": "testicular germ cell cancer -> testicular malignant germ cell cancer -> testis polyembryoma", "source": "diseases.json"}
+{"description": "adenocarcinoma -> pancreatic adenocarcinoma -> pancreatic acinar cell adenocarcinoma", "source": "diseases.json"}
+{"description": "bone disease -> arthropathy -> ankylosis", "source": "diseases.json"}
+{"description": "lymph node disease -> lymphadenitis -> mesenteric lymphadenitis", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> papilloma -> intraductal papilloma", "source": "diseases.json"}
+{"description": "colon carcinoma -> colon adenocarcinoma -> submucosal invasive colon adenocarcinoma", "source": "diseases.json"}
+{"description": "cardiovascular system disease -> pericardium disease -> pericardial effusion", "source": "diseases.json"}
+{"description": "strabismus -> paralytic squint -> partial third-nerve palsy", "source": "diseases.json"}
+{"description": "connective tissue cancer -> giant cell tumor -> bone giant cell tumor", "source": "diseases.json"}
+{"description": "lipid metabolism disorder -> hypolipoproteinemia -> Tangier disease", "source": "diseases.json"}
+{"description": "artery disease -> hypertension -> essential hypertension", "source": "diseases.json"}
+{"description": "eye disease -> eye accommodation disease -> cycloplegia", "source": "diseases.json"}
+{"description": "respiratory system cancer -> larynx cancer -> laryngeal cartilage cancer", "source": "diseases.json"}
+{"description": "lacrimal apparatus disease -> acute inflammation of lacrimal passage -> acute canaliculitis", "source": "diseases.json"}
+{"description": "nervous system disease -> central nervous system disease -> restless legs syndrome", "source": "diseases.json"}
+{"description": "musculoskeletal system cancer -> connective tissue cancer -> myxosarcoma", "source": "diseases.json"}
+{"description": "cell type benign neoplasm -> squamous cell neoplasm -> acanthoma", "source": "diseases.json"}
+{"description": "endocrine system disease -> liver disease -> clonorchiasis", "source": "diseases.json"}
+{"description": "parasitic helminthiasis infectious disease -> filariasis -> dipetalonemiasis", "source": "diseases.json"}
+{"description": "organ system benign neoplasm -> nervous system benign neoplasm -> eyelid benign neoplasm", "source": "diseases.json"}
+{"description": "autosomal recessive disease -> Usher syndrome -> retinitis pigmentosa-deafness syndrome", "source": "diseases.json"}
+{"description": "carcinoma -> skin carcinoma -> cutaneous adenocystic carcinoma", "source": "diseases.json"}
+{"description": "sphingolipidosis -> Niemann-Pick disease -> Niemann-Pick disease type A", "source": "diseases.json"}
+{"description": "primary immunodeficiency disease -> combined T cell and B cell immunodeficiency -> severe combined immunodeficiency", "source": "diseases.json"}
+{"description": "eye adnexa disease -> orbital disease -> constant exophthalmos", "source": "diseases.json"}
+{"description": "acute lymphocytic leukemia -> childhood acute lymphocytic leukemia -> B-cell childhood acute lymphoblastic leukemia", "source": "diseases.json"}
+{"description": "pyelitis -> pyelonephritis -> acute pyelonephritis", "source": "diseases.json"}
+{"description": "malignant glioma -> oligodendroglioma -> childhood oligodendroglioma", "source": "diseases.json"}
+{"description": "ovary adenocarcinoma -> ovarian cystadenocarcinoma -> ovarian clear cell cystadenocarcinoma", "source": "diseases.json"}
+{"description": "non-Hodgkin lymphoma -> B-cell lymphoma -> lymphoplasmacytic lymphoma", "source": "diseases.json"}
+{"description": "corneal disease -> keratoconus -> acute hydrops keratoconus", "source": "diseases.json"}
+{"description": "uterine cancer -> uterine corpus cancer -> uterine corpus endometrial carcinoma", "source": "diseases.json"}
+{"description": "non-suppurative otitis media -> acute transudative otitis media -> blue drum syndrome", "source": "diseases.json"}
+{"description": "pigmentation disease -> neonatal jaundice -> perinatal jaundice due to hepatocellular damage", "source": "diseases.json"}
+{"description": "breast cancer -> female breast cancer -> female breast axillary tail cancer", "source": "diseases.json"}
+{"description": "thyroid carcinoma -> papillary thyroid carcinoma -> papillary follicular thyroid adenocarcinoma", "source": "diseases.json"}
+{"description": "parasitic helminthiasis infectious disease -> filariasis -> filarial elephantiasis", "source": "diseases.json"}
+{"description": "eye disease -> corneal disease -> brittle cornea syndrome", "source": "diseases.json"}
+{"description": "breast cancer -> female breast cancer -> female breast lower-inner quadrant cancer", "source": "diseases.json"}
+{"description": "carcinoma -> malignant cystadenoma -> cystadenocarcinoma", "source": "diseases.json"}
+{"description": "food allergy -> fruit allergy -> plum allergy", "source": "diseases.json"}
+{"description": "organ system benign neoplasm -> endocrine organ benign neoplasm -> neurohypophysis granular cell tumor", "source": "diseases.json"}
+{"description": "musculoskeletal system benign neoplasm -> muscle benign neoplasm -> smooth muscle tumor", "source": "diseases.json"}
+{"description": "breast cancer -> female breast cancer -> female breast upper-outer quadrant cancer", "source": "diseases.json"}
+{"description": "eye adnexa disease -> eyelid disease -> hordeolum", "source": "diseases.json"}
+{"description": "integumentary system disease -> skin disease -> primary cutaneous amyloidosis", "source": "diseases.json"}
+{"description": "adenofibroma -> cystadenofibroma -> mucinous cystadenofibroma", "source": "diseases.json"}
+{"description": "inverted papilloma -> urinary tract papillary transitional cell benign neoplasm -> urinary tract non-invasive transitional cell neoplasm", "source": "diseases.json"}
+{"description": "integumentary system disease -> skin disease -> lethal restrictive dermopathy", "source": "diseases.json"}
+{"description": "skin disease -> pigmentation disease -> dyschromatosis universalis hereditaria", "source": "diseases.json"}
+{"description": "oral cavity cancer -> lip cancer -> lower lip cancer", "source": "diseases.json"}
+{"description": "breast fibrocystic disease -> proliferative type fibrocystic change of breast -> sclerosing adenosis of breast", "source": "diseases.json"}
+{"description": "musculoskeletal system cancer -> connective tissue cancer -> Kaposi's sarcoma", "source": "diseases.json"}
+{"description": "secondary hypertension -> renal hypertension -> benign hypertensive renal disease", "source": "diseases.json"}
+{"description": "chromosomal disease -> chromosomal duplication syndrome -> chromosome Xp11.23-p11.22 duplication syndrome", "source": "diseases.json"}
+{"description": "syphilis -> tertiary syphilis -> gummatous syphilis", "source": "diseases.json"}
+{"description": "chromosomal disease -> chromosomal deletion syndrome -> chromosome 16q22 deletion syndrome", "source": "diseases.json"}
+{"description": "monogenic disease -> cataract -> cataract 10 multiple types", "source": "diseases.json"}
+{"description": "connective tissue cancer -> extraosseous osteosarcoma -> childhood extraosseous osteosarcoma", "source": "diseases.json"}

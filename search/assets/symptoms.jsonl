@@ -1,0 +1,544 @@
+{"description": "backache", "source": "symptoms.json"}
+{"description": "blindness", "source": "symptoms.json"}
+{"description": "deafness", "source": "symptoms.json"}
+{"description": "disorientation", "source": "symptoms.json"}
+{"description": "dry cough", "source": "symptoms.json"}
+{"description": "hemorrhagic gastroenteritis", "source": "symptoms.json"}
+{"description": "hepatic necrosis", "source": "symptoms.json"}
+{"description": "hepatitis", "source": "symptoms.json"}
+{"description": "hepatosplenomegaly", "source": "symptoms.json"}
+{"description": "hydrocephalus", "source": "symptoms.json"}
+{"description": "hyperreflexia", "source": "symptoms.json"}
+{"description": "hypotension", "source": "symptoms.json"}
+{"description": "joint pain", "source": "symptoms.json"}
+{"description": "laryngitis", "source": "symptoms.json"}
+{"description": "laryngotracheitis", "source": "symptoms.json"}
+{"description": "lethargy", "source": "symptoms.json"}
+{"description": "lymphangitis", "source": "symptoms.json"}
+{"description": "lymphoblastoma", "source": "symptoms.json"}
+{"description": "lymphopenia", "source": "symptoms.json"}
+{"description": "massive hepatic necrosis", "source": "symptoms.json"}
+{"description": "mild encephalitis", "source": "symptoms.json"}
+{"description": "muscle cramp", "source": "symptoms.json"}
+{"description": "plasmacytosis", "source": "symptoms.json"}
+{"description": "mouth papules", "source": "symptoms.json"}
+{"description": "tracheitis", "source": "symptoms.json"}
+{"description": "thrombocytopenia", "source": "symptoms.json"}
+{"description": "rales", "source": "symptoms.json"}
+{"description": "rhinitis", "source": "symptoms.json"}
+{"description": "liver inflammation", "source": "symptoms.json"}
+{"description": "severe backache", "source": "symptoms.json"}
+{"description": "conjunctivitis", "source": "symptoms.json"}
+{"description": "severe conjunctivitis", "source": "symptoms.json"}
+{"description": "severe headache", "source": "symptoms.json"}
+{"description": "severe joint pain", "source": "symptoms.json"}
+{"description": "severe necrosis", "source": "symptoms.json"}
+{"description": "sinusitis", "source": "symptoms.json"}
+{"description": "skin ulcer", "source": "symptoms.json"}
+{"description": "bronchopneumonia", "source": "symptoms.json"}
+{"description": "steatorrhea", "source": "symptoms.json"}
+{"description": "vasculitis", "source": "symptoms.json"}
+{"description": "thymus symptom", "source": "symptoms.json"}
+{"description": "spleen symptom", "source": "symptoms.json"}
+{"description": "tracheobronchitis", "source": "symptoms.json"}
+{"description": "incoordination", "source": "symptoms.json"}
+{"description": "bubo", "source": "symptoms.json"}
+{"description": "weariness", "source": "symptoms.json"}
+{"description": "exhaustion", "source": "symptoms.json"}
+{"description": "tiredness", "source": "symptoms.json"}
+{"description": "wheelbarrowing", "source": "symptoms.json"}
+{"description": "hopping", "source": "symptoms.json"}
+{"description": "conscious proprioception", "source": "symptoms.json"}
+{"description": "abnormal hemiwalking hemistanding", "source": "symptoms.json"}
+{"description": "spontaneous abortion", "source": "symptoms.json"}
+{"description": "acute arthritis", "source": "symptoms.json"}
+{"description": "acute meningoencephalitis", "source": "symptoms.json"}
+{"description": "acute painful vision loss", "source": "symptoms.json"}
+{"description": "acute suppurative parotiditis", "source": "symptoms.json"}
+{"description": "afebrile", "source": "symptoms.json"}
+{"description": "ischemia", "source": "symptoms.json"}
+{"description": "photophobia", "source": "symptoms.json"}
+{"description": "asthenopia", "source": "symptoms.json"}
+{"description": "eye strain", "source": "symptoms.json"}
+{"description": "agraphia", "source": "symptoms.json"}
+{"description": "anomia", "source": "symptoms.json"}
+{"description": "inability to comprehend speech", "source": "symptoms.json"}
+{"description": "inability to speak", "source": "symptoms.json"}
+{"description": "inability to form words", "source": "symptoms.json"}
+{"description": "poor enunciation", "source": "symptoms.json"}
+{"description": "receptive aphasia", "source": "symptoms.json"}
+{"description": "areflexia", "source": "symptoms.json"}
+{"description": "absence of knee jerk reflex", "source": "symptoms.json"}
+{"description": "limb weakness", "source": "symptoms.json"}
+{"description": "arm weakness", "source": "symptoms.json"}
+{"description": "leg weakness", "source": "symptoms.json"}
+{"description": "atrial fibrillation", "source": "symptoms.json"}
+{"description": "hemorrhagic diarrhea", "source": "symptoms.json"}
+{"description": "bloody stool", "source": "symptoms.json"}
+{"description": "body ache", "source": "symptoms.json"}
+{"description": "bradycardia", "source": "symptoms.json"}
+{"description": "inability to think clearly", "source": "symptoms.json"}
+{"description": "cloudy cornea", "source": "symptoms.json"}
+{"description": "colic", "source": "symptoms.json"}
+{"description": "colicky pain", "source": "symptoms.json"}
+{"description": "continuous profuse salivation", "source": "symptoms.json"}
+{"description": "cornea symptom", "source": "symptoms.json"}
+{"description": "corneal opacity", "source": "symptoms.json"}
+{"description": "corneal ulcers", "source": "symptoms.json"}
+{"description": "cough with bloody sputum", "source": "symptoms.json"}
+{"description": "cyclic fever", "source": "symptoms.json"}
+{"description": "decreased appetite", "source": "symptoms.json"}
+{"description": "increased appetite", "source": "symptoms.json"}
+{"description": "decreased conscious proprioception", "source": "symptoms.json"}
+{"description": "decreased flexor withdrawal reflex", "source": "symptoms.json"}
+{"description": "diffuse rash", "source": "symptoms.json"}
+{"description": "anisocoria", "source": "symptoms.json"}
+{"description": "diminished gag reflex", "source": "symptoms.json"}
+{"description": "absent gag reflex", "source": "symptoms.json"}
+{"description": "double vision", "source": "symptoms.json"}
+{"description": "dry hacking cough", "source": "symptoms.json"}
+{"description": "dry mouth", "source": "symptoms.json"}
+{"description": "absence seizure", "source": "symptoms.json"}
+{"description": "focal seizure", "source": "symptoms.json"}
+{"description": "generalized seizure", "source": "symptoms.json"}
+{"description": "tonic-clonic seizure", "source": "symptoms.json"}
+{"description": "epileptic seizure", "source": "symptoms.json"}
+{"description": "simple partial seizure", "source": "symptoms.json"}
+{"description": "complex partial seizure", "source": "symptoms.json"}
+{"description": "myoclonic seizure", "source": "symptoms.json"}
+{"description": "clonic seizure", "source": "symptoms.json"}
+{"description": "tonic seizure", "source": "symptoms.json"}
+{"description": "atonic seizure", "source": "symptoms.json"}
+{"description": "excess salivation", "source": "symptoms.json"}
+{"description": "extensive ulcer", "source": "symptoms.json"}
+{"description": "extreme exhaustion", "source": "symptoms.json"}
+{"description": "extreme fatigue", "source": "symptoms.json"}
+{"description": "eye discharge", "source": "symptoms.json"}
+{"description": "fixed dilated pupils", "source": "symptoms.json"}
+{"description": "facial paralysis", "source": "symptoms.json"}
+{"description": "fixed pupil", "source": "symptoms.json"}
+{"description": "flaccid paralysis", "source": "symptoms.json"}
+{"description": "gas pain", "source": "symptoms.json"}
+{"description": "hemiparesis", "source": "symptoms.json"}
+{"description": "hemolysis", "source": "symptoms.json"}
+{"description": "hepatic abscess", "source": "symptoms.json"}
+{"description": "hepatic dysfunction", "source": "symptoms.json"}
+{"description": "hilar lymphadenitis", "source": "symptoms.json"}
+{"description": "hoarse voice", "source": "symptoms.json"}
+{"description": "hyperemia", "source": "symptoms.json"}
+{"description": "hyperesthesia", "source": "symptoms.json"}
+{"description": "hypopyon", "source": "symptoms.json"}
+{"description": "hypoxemia", "source": "symptoms.json"}
+{"description": "impaired coordination", "source": "symptoms.json"}
+{"description": "impaired gag reflex", "source": "symptoms.json"}
+{"description": "inability to feed", "source": "symptoms.json"}
+{"description": "inibility to stand", "source": "symptoms.json"}
+{"description": "inability to swallow", "source": "symptoms.json"}
+{"description": "loss of appetite", "source": "symptoms.json"}
+{"description": "inflamed eyes", "source": "symptoms.json"}
+{"description": "joint inflammation", "source": "symptoms.json"}
+{"description": "keratitis", "source": "symptoms.json"}
+{"description": "lateroventral deviation of the head", "source": "symptoms.json"}
+{"description": "leg cramp", "source": "symptoms.json"}
+{"description": "leukopenia", "source": "symptoms.json"}
+{"description": "loss of tendon reflex", "source": "symptoms.json"}
+{"description": "melena", "source": "symptoms.json"}
+{"description": "mild bronchitis", "source": "symptoms.json"}
+{"description": "mild hypotension", "source": "symptoms.json"}
+{"description": "tetanic convulsion", "source": "symptoms.json"}
+{"description": "mild tetanic convulsion", "source": "symptoms.json"}
+{"description": "mouth sore", "source": "symptoms.json"}
+{"description": "muscles ache", "source": "symptoms.json"}
+{"description": "muscle soreness", "source": "symptoms.json"}
+{"description": "muscle tenderness", "source": "symptoms.json"}
+{"description": "muscle necrosis", "source": "symptoms.json"}
+{"description": "neck weakness", "source": "symptoms.json"}
+{"description": "night sweats", "source": "symptoms.json"}
+{"description": "nystagmus", "source": "symptoms.json"}
+{"description": "occasional diplopia", "source": "symptoms.json"}
+{"description": "limb edema", "source": "symptoms.json"}
+{"description": "ophthalmoplegia", "source": "symptoms.json"}
+{"description": "slurred speech", "source": "symptoms.json"}
+{"description": "painful lymph glands", "source": "symptoms.json"}
+{"description": "palpebral edema", "source": "symptoms.json"}
+{"description": "panting respiration", "source": "symptoms.json"}
+{"description": "lip paralysis", "source": "symptoms.json"}
+{"description": "throat muscle paralysis", "source": "symptoms.json"}
+{"description": "paraplegia", "source": "symptoms.json"}
+{"description": "parotid abscess", "source": "symptoms.json"}
+{"description": "peripheral muscle weakness", "source": "symptoms.json"}
+{"description": "poor feeding", "source": "symptoms.json"}
+{"description": "profound weakness", "source": "symptoms.json"}
+{"description": "emaciation", "source": "symptoms.json"}
+{"description": "progressive emaciation", "source": "symptoms.json"}
+{"description": "progressive prostration", "source": "symptoms.json"}
+{"description": "progressive weakness", "source": "symptoms.json"}
+{"description": "prostatic abscess", "source": "symptoms.json"}
+{"description": "prostatic infection", "source": "symptoms.json"}
+{"description": "proximal paralysis of arm and leg", "source": "symptoms.json"}
+{"description": "respiratory paralysis", "source": "symptoms.json"}
+{"description": "runny nose", "source": "symptoms.json"}
+{"description": "salivation", "source": "symptoms.json"}
+{"description": "severe abdominal cramp", "source": "symptoms.json"}
+{"description": "severe diarrhea", "source": "symptoms.json"}
+{"description": "severe mastitis", "source": "symptoms.json"}
+{"description": "severe myalgia", "source": "symptoms.json"}
+{"description": "severe pneumonia", "source": "symptoms.json"}
+{"description": "spleen abscess", "source": "symptoms.json"}
+{"description": "stiff neck", "source": "symptoms.json"}
+{"description": "nose symptom", "source": "symptoms.json"}
+{"description": "stupor", "source": "symptoms.json"}
+{"description": "thyroid symptom", "source": "symptoms.json"}
+{"description": "thyroid abscesses", "source": "symptoms.json"}
+{"description": "ear symptom", "source": "symptoms.json"}
+{"description": "tinnitus", "source": "symptoms.json"}
+{"description": "muscle twitching", "source": "symptoms.json"}
+{"description": "facial muscle twitching", "source": "symptoms.json"}
+{"description": "mydriasis", "source": "symptoms.json"}
+{"description": "unreactive mydriasis", "source": "symptoms.json"}
+{"description": "vertigo", "source": "symptoms.json"}
+{"description": "weak cry", "source": "symptoms.json"}
+{"description": "wobble", "source": "symptoms.json"}
+{"description": "dyspareunia", "source": "symptoms.json"}
+{"description": "syncope", "source": "symptoms.json"}
+{"description": "cataplexy", "source": "symptoms.json"}
+{"description": "hyperthermia", "source": "symptoms.json"}
+{"description": "amaurosis fugax", "source": "symptoms.json"}
+{"description": "amaurosis", "source": "symptoms.json"}
+{"description": "contracted pupil", "source": "symptoms.json"}
+{"description": "miosis", "source": "symptoms.json"}
+{"description": "hematochezia", "source": "symptoms.json"}
+{"description": "claudication", "source": "symptoms.json"}
+{"description": "reticulocytosis", "source": "symptoms.json"}
+{"description": "macrocytosis", "source": "symptoms.json"}
+{"description": "hypoventilation", "source": "symptoms.json"}
+{"description": "bradypnea", "source": "symptoms.json"}
+{"description": "pleuritic chest pain", "source": "symptoms.json"}
+{"description": "anasarca", "source": "symptoms.json"}
+{"description": "earache", "source": "symptoms.json"}
+{"description": "toothache", "source": "symptoms.json"}
+{"description": "heartburn", "source": "symptoms.json"}
+{"description": "elbow pain", "source": "symptoms.json"}
+{"description": "knee pain", "source": "symptoms.json"}
+{"description": "shoulder pain", "source": "symptoms.json"}
+{"description": "faint", "source": "symptoms.json"}
+{"description": "bloodshot eye", "source": "symptoms.json"}
+{"description": "bloody sputum", "source": "symptoms.json"}
+{"description": "epistaxis", "source": "symptoms.json"}
+{"description": "cardiogenic shock", "source": "symptoms.json"}
+{"description": "septic shock", "source": "symptoms.json"}
+{"description": "abnormal sputum", "source": "symptoms.json"}
+{"description": "right upper quadrant abdominal rigidity", "source": "symptoms.json"}
+{"description": "abnormal weight gain", "source": "symptoms.json"}
+{"description": "left upper quadrant abdominal pain", "source": "symptoms.json"}
+{"description": "abdominal pain", "source": "symptoms.json"}
+{"description": "hepatomegaly", "source": "symptoms.json"}
+{"description": "lack of normal physiological development", "source": "symptoms.json"}
+{"description": "failure to thrive", "source": "symptoms.json"}
+{"description": "delayed milestones", "source": "symptoms.json"}
+{"description": "right lower quadrant abdominal rigidity", "source": "symptoms.json"}
+{"description": "generalized abdominal rigidity", "source": "symptoms.json"}
+{"description": "epigastric abdominal rigidity", "source": "symptoms.json"}
+{"description": "left upper quadrant abdominal rigidity", "source": "symptoms.json"}
+{"description": "multiple sites abdominal rigidity", "source": "symptoms.json"}
+{"description": "underweight", "source": "symptoms.json"}
+{"description": "loss of weight", "source": "symptoms.json"}
+{"description": "epigastric abdominal swelling", "source": "symptoms.json"}
+{"description": "persistent vegetative state", "source": "symptoms.json"}
+{"description": "left lower quadrant abdominal tenderness", "source": "symptoms.json"}
+{"description": "multiple sites abdominal tenderness", "source": "symptoms.json"}
+{"description": "continuous leakage of urine", "source": "symptoms.json"}
+{"description": "dysphagia", "source": "symptoms.json"}
+{"description": "renal colic", "source": "symptoms.json"}
+{"description": "epigastric abdominal tenderness", "source": "symptoms.json"}
+{"description": "periumbilic abdominal tenderness", "source": "symptoms.json"}
+{"description": "generalized abdominal tenderness", "source": "symptoms.json"}
+{"description": "right upper quadrant abdominal tenderness", "source": "symptoms.json"}
+{"description": "right lower quadrant abdominal tenderness", "source": "symptoms.json"}
+{"description": "left lower quadrant abdominal swelling", "source": "symptoms.json"}
+{"description": "mixed incontinence (female) (male)", "source": "symptoms.json"}
+{"description": "headache", "source": "symptoms.json"}
+{"description": "throat pain", "source": "symptoms.json"}
+{"description": "hemorrhage from throat", "source": "symptoms.json"}
+{"description": "head swelling", "source": "symptoms.json"}
+{"description": "male stress incontinence", "source": "symptoms.json"}
+{"description": "generalized abdominal pain", "source": "symptoms.json"}
+{"description": "abnormal feces", "source": "symptoms.json"}
+{"description": "enlargement of lymph nodes", "source": "symptoms.json"}
+{"description": "transient alteration of awareness", "source": "symptoms.json"}
+{"description": "tachycardia", "source": "symptoms.json"}
+{"description": "splenomegaly", "source": "symptoms.json"}
+{"description": "urge incontinence", "source": "symptoms.json"}
+{"description": "post-void dribbling", "source": "symptoms.json"}
+{"description": "periumbilic abdominal swelling", "source": "symptoms.json"}
+{"description": "epigastric abdominal pain", "source": "symptoms.json"}
+{"description": "transient paralysis of limb", "source": "symptoms.json"}
+{"description": "multiple sites abdominal swelling", "source": "symptoms.json"}
+{"description": "right lower quadrant abdominal pain", "source": "symptoms.json"}
+{"description": "right upper quadrant abdominal pain", "source": "symptoms.json"}
+{"description": "right lower quadrant abdominal swelling", "source": "symptoms.json"}
+{"description": "generalized abdominal swelling", "source": "symptoms.json"}
+{"description": "left lower quadrant abdominal rigidity", "source": "symptoms.json"}
+{"description": "left upper quadrant abdominal swelling", "source": "symptoms.json"}
+{"description": "incomplete bladder emptying", "source": "symptoms.json"}
+{"description": "voice disturbance", "source": "symptoms.json"}
+{"description": "multiple sites abdominal pain", "source": "symptoms.json"}
+{"description": "right upper quadrant abdominal swelling", "source": "symptoms.json"}
+{"description": "short stature", "source": "symptoms.json"}
+{"description": "diarrhea", "source": "symptoms.json"}
+{"description": "insomnia", "source": "symptoms.json"}
+{"description": "splitting of urinary stream", "source": "symptoms.json"}
+{"description": "aphonia", "source": "symptoms.json"}
+{"description": "precordial pain", "source": "symptoms.json"}
+{"description": "chest pain", "source": "symptoms.json"}
+{"description": "fussy", "source": "symptoms.json"}
+{"description": "incontinence without sensory awareness", "source": "symptoms.json"}
+{"description": "insomnia with sleep apnea", "source": "symptoms.json"}
+{"description": "dysfunctions associated with sleep stages", "source": "symptoms.json"}
+{"description": "sleep apnea", "source": "symptoms.json"}
+{"description": "hypersomnia", "source": "symptoms.json"}
+{"description": "hypersomnia with sleep apnea", "source": "symptoms.json"}
+{"description": "disruptions of 24-hour sleep-wake cycle", "source": "symptoms.json"}
+{"description": "sleep related movement disorder", "source": "symptoms.json"}
+{"description": "overflow incontinence", "source": "symptoms.json"}
+{"description": "slowing of urinary stream", "source": "symptoms.json"}
+{"description": "left upper quadrant abdominal tenderness", "source": "symptoms.json"}
+{"description": "excessive crying", "source": "symptoms.json"}
+{"description": "febrile convulsion", "source": "symptoms.json"}
+{"description": "cheyne-stokes respiration", "source": "symptoms.json"}
+{"description": "apnea", "source": "symptoms.json"}
+{"description": "hyperventilation", "source": "symptoms.json"}
+{"description": "orthopnea", "source": "symptoms.json"}
+{"description": "tachypnea", "source": "symptoms.json"}
+{"description": "wheezing", "source": "symptoms.json"}
+{"description": "coma", "source": "symptoms.json"}
+{"description": "nocturnal enuresis", "source": "symptoms.json"}
+{"description": "syncope and collapse", "source": "symptoms.json"}
+{"description": "periumbilic abdominal pain", "source": "symptoms.json"}
+{"description": "periumbilic abdominal rigidity", "source": "symptoms.json"}
+{"description": "lack of coordination", "source": "symptoms.json"}
+{"description": "left lower quadrant abdominal pain", "source": "symptoms.json"}
+{"description": "alexia", "source": "symptoms.json"}
+{"description": "acute mesenteric lymphadenitis", "source": "symptoms.json"}
+{"description": "acute renal failure", "source": "symptoms.json"}
+{"description": "conscious disturbance", "source": "symptoms.json"}
+{"description": "disturbed vision", "source": "symptoms.json"}
+{"description": "vision distortion", "source": "symptoms.json"}
+{"description": "exanthema", "source": "symptoms.json"}
+{"description": "frontal headache", "source": "symptoms.json"}
+{"description": "hemolytic anemia", "source": "symptoms.json"}
+{"description": "hip pain", "source": "symptoms.json"}
+{"description": "inflammatory low back pain", "source": "symptoms.json"}
+{"description": "leukocytosis", "source": "symptoms.json"}
+{"description": "low backache", "source": "symptoms.json"}
+{"description": "maculopapular rash", "source": "symptoms.json"}
+{"description": "opisthotonus", "source": "symptoms.json"}
+{"description": "papular rash", "source": "symptoms.json"}
+{"description": "ankle rash", "source": "symptoms.json"}
+{"description": "synovitis", "source": "symptoms.json"}
+{"description": "tache noire", "source": "symptoms.json"}
+{"description": "thick white exudate on tongue", "source": "symptoms.json"}
+{"description": "wound discharge", "source": "symptoms.json"}
+{"description": "yellow dropping", "source": "symptoms.json"}
+{"description": "irritability", "source": "symptoms.json"}
+{"description": "mouth bleeding", "source": "symptoms.json"}
+{"description": "ischemic necrosis of jejunum", "source": "symptoms.json"}
+{"description": "extraocular muscles paralysis", "source": "symptoms.json"}
+{"description": "pareses", "source": "symptoms.json"}
+{"description": "purpuric rash", "source": "symptoms.json"}
+{"description": "yellow exudate from nose", "source": "symptoms.json"}
+{"description": "yellow exudate from eyes", "source": "symptoms.json"}
+{"description": "abnormal behavior", "source": "symptoms.json"}
+{"description": "abnormal hemistanding", "source": "symptoms.json"}
+{"description": "abnormal hemiwalking", "source": "symptoms.json"}
+{"description": "sudden onset of fever", "source": "symptoms.json"}
+{"description": "bradykinesia", "source": "symptoms.json"}
+{"description": "acute cranial nerve dysfunction", "source": "symptoms.json"}
+{"description": "acute diarrhea", "source": "symptoms.json"}
+{"description": "acute enteritis", "source": "symptoms.json"}
+{"description": "acute gastroenteritis", "source": "symptoms.json"}
+{"description": "acute dyspnea", "source": "symptoms.json"}
+{"description": "acute weight loss", "source": "symptoms.json"}
+{"description": "aggressive behavior", "source": "symptoms.json"}
+{"description": "bifrontal headache", "source": "symptoms.json"}
+{"description": "chronic cough", "source": "symptoms.json"}
+{"description": "chronic fatigue syndrome", "source": "symptoms.json"}
+{"description": "circling movement", "source": "symptoms.json"}
+{"description": "cranial nerve palsies", "source": "symptoms.json"}
+{"description": "cytopenia", "source": "symptoms.json"}
+{"description": "decreased pharyngeal tone", "source": "symptoms.json"}
+{"description": "decreased sucking", "source": "symptoms.json"}
+{"description": "deltoid muscle weakness", "source": "symptoms.json"}
+{"description": "nasal discharge", "source": "symptoms.json"}
+{"description": "droopy ears", "source": "symptoms.json"}
+{"description": "dysphonia", "source": "symptoms.json"}
+{"description": "expressive aphasia", "source": "symptoms.json"}
+{"description": "facial weakness", "source": "symptoms.json"}
+{"description": "flaccid muscle tone", "source": "symptoms.json"}
+{"description": "granulomatous inflammation", "source": "symptoms.json"}
+{"description": "head pressing", "source": "symptoms.json"}
+{"description": "hind limb paralysis", "source": "symptoms.json"}
+{"description": "intraretinal hemorrhage", "source": "symptoms.json"}
+{"description": "leg swelling", "source": "symptoms.json"}
+{"description": "microangiopathic hemolytic anemia", "source": "symptoms.json"}
+{"description": "moderate anemia", "source": "symptoms.json"}
+{"description": "moderate conjuctival injection", "source": "symptoms.json"}
+{"description": "multiple abscesses", "source": "symptoms.json"}
+{"description": "painful reginal lymphadenopathy", "source": "symptoms.json"}
+{"description": "palate weakness", "source": "symptoms.json"}
+{"description": "partial hind limb paralysis", "source": "symptoms.json"}
+{"description": "sudden ataxis", "source": "symptoms.json"}
+{"description": "sternocleidomastoid weakness", "source": "symptoms.json"}
+{"description": "suppurative pneumonia", "source": "symptoms.json"}
+{"description": "lymph gland swelling", "source": "symptoms.json"}
+{"description": "yellowish green diarrhea", "source": "symptoms.json"}
+{"description": "nasal bleeding", "source": "symptoms.json"}
+{"description": "gum bleeding", "source": "symptoms.json"}
+{"description": "blotchy red rash", "source": "symptoms.json"}
+{"description": "cervical lymphadenopathy", "source": "symptoms.json"}
+{"description": "extreme prostration", "source": "symptoms.json"}
+{"description": "facial edema", "source": "symptoms.json"}
+{"description": "hemodynamic instability", "source": "symptoms.json"}
+{"description": "herpetic lesion on upper lip", "source": "symptoms.json"}
+{"description": "intense anxiety", "source": "symptoms.json"}
+{"description": "severe chest pain", "source": "symptoms.json"}
+{"description": "intense toxemia", "source": "symptoms.json"}
+{"description": "mild conjunctivitis", "source": "symptoms.json"}
+{"description": "parotid pain", "source": "symptoms.json"}
+{"description": "excess lymphocytes in cerebrospinal fluid", "source": "symptoms.json"}
+{"description": "retrobulbar pain", "source": "symptoms.json"}
+{"description": "subconjunctival bleeding", "source": "symptoms.json"}
+{"description": "testicular pain", "source": "symptoms.json"}
+{"description": "pelvic swelling", "source": "symptoms.json"}
+{"description": "pelvic mass", "source": "symptoms.json"}
+{"description": "pelvic lump", "source": "symptoms.json"}
+{"description": "generalized pelvic lump", "source": "symptoms.json"}
+{"description": "right lower quadrant pelvic lump", "source": "symptoms.json"}
+{"description": "epigastric pelvic lump", "source": "symptoms.json"}
+{"description": "left lower quadrant pelvic lump", "source": "symptoms.json"}
+{"description": "left upper quadrant pelvic lump", "source": "symptoms.json"}
+{"description": "right upper quadrant pelvic lump", "source": "symptoms.json"}
+{"description": "multiple sites pelvic lump", "source": "symptoms.json"}
+{"description": "periumbilic pelvic lump", "source": "symptoms.json"}
+{"description": "right upper quadrant pelvic mass", "source": "symptoms.json"}
+{"description": "left lower quadrant pelvic mass", "source": "symptoms.json"}
+{"description": "epigastric pelvic mass", "source": "symptoms.json"}
+{"description": "left upper quadrant pelvic mass", "source": "symptoms.json"}
+{"description": "generalized pelvic mass", "source": "symptoms.json"}
+{"description": "periumbilic pelvic mass", "source": "symptoms.json"}
+{"description": "multiple sites pelvic mass", "source": "symptoms.json"}
+{"description": "right lower quadrant pelvic mass", "source": "symptoms.json"}
+{"description": "multiple sites pelvic swelling", "source": "symptoms.json"}
+{"description": "generalized pelvic swelling", "source": "symptoms.json"}
+{"description": "epigastric pelvic swelling", "source": "symptoms.json"}
+{"description": "left lower quadrant pelvic swelling", "source": "symptoms.json"}
+{"description": "left upper quadrant pelvic swelling", "source": "symptoms.json"}
+{"description": "periumbilic pelvic swelling", "source": "symptoms.json"}
+{"description": "right lower quadrant pelvic swelling", "source": "symptoms.json"}
+{"description": "right upper quadrant pelvic swelling", "source": "symptoms.json"}
+{"description": "left upper quadrant abdominal mass", "source": "symptoms.json"}
+{"description": "left lower quadrant abdominal mass", "source": "symptoms.json"}
+{"description": "epigastric abdominal mass", "source": "symptoms.json"}
+{"description": "multiple sites abdominal mass", "source": "symptoms.json"}
+{"description": "generalized abdominal mass", "source": "symptoms.json"}
+{"description": "periumbilic abdominal mass", "source": "symptoms.json"}
+{"description": "right lower quadrant abdominal mass", "source": "symptoms.json"}
+{"description": "right upper quadrant abdominal mass", "source": "symptoms.json"}
+{"description": "multiple sites abdominal lump", "source": "symptoms.json"}
+{"description": "periumbilic abdominal lump", "source": "symptoms.json"}
+{"description": "epigastric abdominal lump", "source": "symptoms.json"}
+{"description": "left upper quadrant abdominal lump", "source": "symptoms.json"}
+{"description": "right lower quadrant abdominal lump", "source": "symptoms.json"}
+{"description": "right upper quadrant abdominal lump", "source": "symptoms.json"}
+{"description": "generalized abdominal lump", "source": "symptoms.json"}
+{"description": "left lower quadrant abdominal lump", "source": "symptoms.json"}
+{"description": "dysfunctions associated with arousal from sleep", "source": "symptoms.json"}
+{"description": "inability to concentrate", "source": "symptoms.json"}
+{"description": "chronic enteritis", "source": "symptoms.json"}
+{"description": "sinus bradycardia", "source": "symptoms.json"}
+{"description": "junctional tachycardia", "source": "symptoms.json"}
+{"description": "paroxysmal tachycardia", "source": "symptoms.json"}
+{"description": "sinus tachycardia", "source": "symptoms.json"}
+{"description": "ventricular tachycardia", "source": "symptoms.json"}
+{"description": "sore eyes", "source": "symptoms.json"}
+{"description": "neck pain", "source": "symptoms.json"}
+{"description": "phantom pain", "source": "symptoms.json"}
+{"description": "nociceptive pain", "source": "symptoms.json"}
+{"description": "neuropathic pain", "source": "symptoms.json"}
+{"description": "visceral pain", "source": "symptoms.json"}
+{"description": "hypoesthesia", "source": "symptoms.json"}
+{"description": "hypoalgesia", "source": "symptoms.json"}
+{"description": "hyperalgesia", "source": "symptoms.json"}
+{"description": "chronic pain", "source": "symptoms.json"}
+{"description": "breakthrough pain", "source": "symptoms.json"}
+{"description": "acute pain", "source": "symptoms.json"}
+{"description": "allodynia", "source": "symptoms.json"}
+{"description": "reactive hyperemia", "source": "symptoms.json"}
+{"description": "active hyperemia", "source": "symptoms.json"}
+{"description": "functional hyperemia", "source": "symptoms.json"}
+{"description": "face hyperemia", "source": "symptoms.json"}
+{"description": "hyperemia of the neck", "source": "symptoms.json"}
+{"description": "spastic paralysis", "source": "symptoms.json"}
+{"description": "motor paralysis", "source": "symptoms.json"}
+{"description": "congested sclera", "source": "symptoms.json"}
+{"description": "gross hematuria", "source": "symptoms.json"}
+{"description": "stress incontinence", "source": "symptoms.json"}
+{"description": "hypermenorrhea", "source": "symptoms.json"}
+{"description": "metrorrhagia", "source": "symptoms.json"}
+{"description": "subjective vertigo", "source": "symptoms.json"}
+{"description": "objective vertigo", "source": "symptoms.json"}
+{"description": "rigidity hypokinesia", "source": "symptoms.json"}
+{"description": "postural instability hypokinesia", "source": "symptoms.json"}
+{"description": "freezing hypokinesia", "source": "symptoms.json"}
+{"description": "referred pain", "source": "symptoms.json"}
+{"description": "facial tremor", "source": "symptoms.json"}
+{"description": "lesions in oropharynx", "source": "symptoms.json"}
+{"description": "lesions in mouth", "source": "symptoms.json"}
+{"description": "cervical edema", "source": "symptoms.json"}
+{"description": "breathing problems", "source": "symptoms.json"}
+{"description": "nasal congestion", "source": "symptoms.json"}
+{"description": "icteric eyes", "source": "symptoms.json"}
+{"description": "otitis", "source": "symptoms.json"}
+{"description": "decreased tongue tone", "source": "symptoms.json"}
+{"description": "transient fever", "source": "symptoms.json"}
+{"description": "low-grade fever", "source": "symptoms.json"}
+{"description": "prolonged fever", "source": "symptoms.json"}
+{"description": "mild fever", "source": "symptoms.json"}
+{"description": "high fever", "source": "symptoms.json"}
+{"description": "very high fever", "source": "symptoms.json"}
+{"description": "hyperpyrexia", "source": "symptoms.json"}
+{"description": "Pel-Epstein fever", "source": "symptoms.json"}
+{"description": "continuous fever", "source": "symptoms.json"}
+{"description": "remittent fever", "source": "symptoms.json"}
+{"description": "relapsing fever", "source": "symptoms.json"}
+{"description": "hypotensive", "source": "symptoms.json"}
+{"description": "anaphylactic shock", "source": "symptoms.json"}
+{"description": "exophthalmos", "source": "symptoms.json"}
+{"description": "ventricular bradycardia", "source": "symptoms.json"}
+{"description": "cardiac fibrillation", "source": "symptoms.json"}
+{"description": "ventricular fibrillation", "source": "symptoms.json"}
+{"description": "adenopathy", "source": "symptoms.json"}
+{"description": "coagulopathy", "source": "symptoms.json"}
+{"description": "microangiopathy", "source": "symptoms.json"}
+{"description": "hyponatremia", "source": "symptoms.json"}
+{"description": "hematemesis", "source": "symptoms.json"}
+{"description": "septicemia", "source": "symptoms.json"}
+{"description": "toxemia", "source": "symptoms.json"}
+{"description": "pharyngitis", "source": "symptoms.json"}
+{"description": "diaphoresis", "source": "symptoms.json"}
+{"description": "dyspnea", "source": "symptoms.json"}
+{"description": "lymphadenitis", "source": "symptoms.json"}
+{"description": "hematogenous", "source": "symptoms.json"}
+{"description": "muscle pain", "source": "symptoms.json"}
+{"description": "muscle tightness", "source": "symptoms.json"}
+{"description": "excessive tearing", "source": "symptoms.json"}
+{"description": "light sensitivity", "source": "symptoms.json"}
+{"description": "pneumonia", "source": "symptoms.json"}
+{"description": "ocular lesion", "source": "symptoms.json"}
+{"description": "constipation", "source": "symptoms.json"}
+{"description": "hoarseness", "source": "symptoms.json"}
+{"description": "hyperactivity", "source": "symptoms.json"}
+{"description": "limited attention", "source": "symptoms.json"}
+{"description": "communication difficulty", "source": "symptoms.json"}
+{"description": "obsessive interests", "source": "symptoms.json"}
+{"description": "repetitive behavior", "source": "symptoms.json"}

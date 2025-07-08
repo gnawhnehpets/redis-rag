@@ -1,0 +1,115 @@
+{"description": "chikungunya", "source": "infectious_diseases.json"}
+{"description": "African tick-bite fever", "source": "infectious_diseases.json"}
+{"description": "Astrakhan spotted fever", "source": "infectious_diseases.json"}
+{"description": "Indian tick typhus", "source": "infectious_diseases.json"}
+{"description": "Israeli tick typhus", "source": "infectious_diseases.json"}
+{"description": "Far Eastern spotted fever", "source": "infectious_diseases.json"}
+{"description": "Japanese spotted fever", "source": "infectious_diseases.json"}
+{"description": "Rickettsia parkeri spotted fever", "source": "infectious_diseases.json"}
+{"description": "Rocky Mountain spotted fever", "source": "infectious_diseases.json"}
+{"description": "oropharyngeal anthrax", "source": "infectious_diseases.json"}
+{"description": "erysipeloid", "source": "infectious_diseases.json"}
+{"description": "La Crosse encephalitis", "source": "infectious_diseases.json"}
+{"description": "dengue shock syndrome", "source": "infectious_diseases.json"}
+{"description": "asymptomatic dengue", "source": "infectious_diseases.json"}
+{"description": "inhalation anthrax", "source": "infectious_diseases.json"}
+{"description": "Argentine hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "Bolivian hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "Venezuelan hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "Brazilian hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "Chapare hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "Whitewater Arroyo hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "Korean hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "nephropathia epidemica", "source": "infectious_diseases.json"}
+{"description": "lujo hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "swine influenza", "source": "infectious_diseases.json"}
+{"description": "Alkhurma hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "epidemic typhus", "source": "infectious_diseases.json"}
+{"description": "endemic typhus", "source": "infectious_diseases.json"}
+{"description": "aneruptive fever", "source": "infectious_diseases.json"}
+{"description": "sennetsu fever", "source": "infectious_diseases.json"}
+{"description": "Barmah Forest virus disease", "source": "infectious_diseases.json"}
+{"description": "Ross River fever", "source": "infectious_diseases.json"}
+{"description": "Oropouche fever", "source": "infectious_diseases.json"}
+{"description": "Balkan hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "sleeping sickness", "source": "infectious_diseases.json"}
+{"description": "pneumonic plague", "source": "infectious_diseases.json"}
+{"description": "bubonic plague", "source": "infectious_diseases.json"}
+{"description": "Queensland tick typhus", "source": "infectious_diseases.json"}
+{"description": "setariasis", "source": "infectious_diseases.json"}
+{"description": "dirofilariasis", "source": "infectious_diseases.json"}
+{"description": "Eastern equine encephalitis", "source": "infectious_diseases.json"}
+{"description": "Western equine encephalitis", "source": "infectious_diseases.json"}
+{"description": "Siberian tick typhus", "source": "infectious_diseases.json"}
+{"description": "pasteurellosis", "source": "infectious_diseases.json"}
+{"description": "Brucella suis brucellosis", "source": "infectious_diseases.json"}
+{"description": "brucellosis", "source": "infectious_diseases.json"}
+{"description": "Q fever", "source": "infectious_diseases.json"}
+{"description": "rickettsialpox", "source": "infectious_diseases.json"}
+{"description": "Brill-Zinsser disease", "source": "infectious_diseases.json"}
+{"description": "cat-scratch disease", "source": "infectious_diseases.json"}
+{"description": "rabies", "source": "infectious_diseases.json"}
+{"description": "ornithosis", "source": "infectious_diseases.json"}
+{"description": "hemorrhagic fever with renal syndrome", "source": "infectious_diseases.json"}
+{"description": "Phlebotomus fever", "source": "infectious_diseases.json"}
+{"description": "Listeria meningitis", "source": "infectious_diseases.json"}
+{"description": "listeriosis", "source": "infectious_diseases.json"}
+{"description": "Lyme disease", "source": "infectious_diseases.json"}
+{"description": "Creutzfeldt-Jakob disease", "source": "infectious_diseases.json"}
+{"description": "ulceroglandular tularemia", "source": "infectious_diseases.json"}
+{"description": "sodoku disease", "source": "infectious_diseases.json"}
+{"description": "Chagas disease", "source": "infectious_diseases.json"}
+{"description": "lymphocytic choriomeningitis", "source": "infectious_diseases.json"}
+{"description": "dengue disease", "source": "infectious_diseases.json"}
+{"description": "dengue hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "Crimean-Congo hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "Plasmodium ovale malaria", "source": "infectious_diseases.json"}
+{"description": "tick-borne relapsing fever", "source": "infectious_diseases.json"}
+{"description": "oculoglandular tularemia", "source": "infectious_diseases.json"}
+{"description": "Haverhill fever", "source": "infectious_diseases.json"}
+{"description": "Rift Valley fever", "source": "infectious_diseases.json"}
+{"description": "scrub typhus", "source": "infectious_diseases.json"}
+{"description": "gastrointestinal anthrax", "source": "infectious_diseases.json"}
+{"description": "glanders", "source": "infectious_diseases.json"}
+{"description": "urinary schistosomiasis", "source": "infectious_diseases.json"}
+{"description": "Brucella canis brucellosis", "source": "infectious_diseases.json"}
+{"description": "boutonneuse fever", "source": "infectious_diseases.json"}
+{"description": "gastrointestinal tularemia", "source": "infectious_diseases.json"}
+{"description": "dipetalonemiasis", "source": "infectious_diseases.json"}
+{"description": "Brucella melitensis brucellosis", "source": "infectious_diseases.json"}
+{"description": "Brucella abortus brucellosis", "source": "infectious_diseases.json"}
+{"description": "hantavirus pulmonary syndrome", "source": "infectious_diseases.json"}
+{"description": "cryptosporidiosis", "source": "infectious_diseases.json"}
+{"description": "pneumonic tularemia", "source": "infectious_diseases.json"}
+{"description": "tularemia", "source": "infectious_diseases.json"}
+{"description": "leptospirosis", "source": "infectious_diseases.json"}
+{"description": "West Nile encephalitis", "source": "infectious_diseases.json"}
+{"description": "West Nile fever", "source": "infectious_diseases.json"}
+{"description": "Newcastle disease", "source": "infectious_diseases.json"}
+{"description": "aleutian mink disease", "source": "infectious_diseases.json"}
+{"description": "severe acute respiratory syndrome", "source": "infectious_diseases.json"}
+{"description": "monkeypox", "source": "infectious_diseases.json"}
+{"description": "septicemic plague", "source": "infectious_diseases.json"}
+{"description": "plague", "source": "infectious_diseases.json"}
+{"description": "encephalitozoonosis", "source": "infectious_diseases.json"}
+{"description": "Ebola hemorrhagic fever", "source": "infectious_diseases.json"}
+{"description": "hepatitis E", "source": "infectious_diseases.json"}
+{"description": "avian influenza", "source": "infectious_diseases.json"}
+{"description": "actinobacillosis", "source": "infectious_diseases.json"}
+{"description": "melioidosis", "source": "infectious_diseases.json"}
+{"description": "borna disease", "source": "infectious_diseases.json"}
+{"description": "human immunodeficiency virus infectious disease", "source": "infectious_diseases.json"}
+{"description": "acquired immunodeficiency syndrome", "source": "infectious_diseases.json"}
+{"description": "cutaneous anthrax", "source": "infectious_diseases.json"}
+{"description": "milker's nodule", "source": "infectious_diseases.json"}
+{"description": "contagious pustular dermatitis", "source": "infectious_diseases.json"}
+{"description": "cowpox", "source": "infectious_diseases.json"}
+{"description": "leishmaniasis", "source": "infectious_diseases.json"}
+{"description": "cutaneous leishmaniasis", "source": "infectious_diseases.json"}
+{"description": "visceral leishmaniasis", "source": "infectious_diseases.json"}
+{"description": "mucocutaneous leishmaniasis", "source": "infectious_diseases.json"}
+{"description": "monieziasis", "source": "infectious_diseases.json"}
+{"description": "Lassa fever", "source": "infectious_diseases.json"}
+{"description": "Venezuelan equine encephalitis", "source": "infectious_diseases.json"}
+{"description": "babesiosis", "source": "infectious_diseases.json"}
+{"description": "yellow fever", "source": "infectious_diseases.json"}
