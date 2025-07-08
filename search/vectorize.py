@@ -1,25 +1,22 @@
 import os
 import warnings
-from redis import Redis
-from dotenv import load_dotenv
 import json
+import pandas as pd
 
+from redis import Redis
 from redisvl.utils.vectorize import HFTextVectorizer
 from redisvl.extensions.cache.embeddings import EmbeddingsCache
 
-load_dotenv()
+from redis_helper import client
+from index_helper import populate_index, main as create_index_main
 
-warnings.filterwarnings("ignore")
+# load json file
+df = pd.read_json("assets/symptoms.jsonl", lines=True)
+print("Loaded", len(df), " entries")
+print(df.head())
 
-REDIS_HOST = "localhost" #os.getenv("REDIS_HOST", "localhost")
-REDIS_PORT = int(os.getenv("REDIS_PORT", 6379))
-REDIS_USERNAME = os.getenv("REDIS_USERNAME")
-REDIS_PASSWORD = os.getenv("REDIS_PASSWORD")
-REDIS_URL = f"redis://{REDIS_USERNAME}:{REDIS_PASSWORD}@{REDIS_HOST}:{REDIS_PORT}"
-
-client = Redis.from_url(REDIS_URL)
-print(client.ping())
-
+# create embeddings cache
+# disable parallelism to avoid warnings
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 hf = HFTextVectorizer(
@@ -31,6 +28,16 @@ hf = HFTextVectorizer(
     )
 )
 
+# vectorize descriptions
+# use as_buffer=True to store vectors in Redis as binary data
+# this is more efficient for storage and retrieval
+# if you want to store vectors as lists, use as_buffer=False
 df["vector"] = hf.embed_many(df["description"].tolist(), as_buffer=True)
+print(df.head())
 
-df.head()
+# create/get index
+index_name = "symptoms"
+index = create_index_main(index_name)
+
+# populate_index(index, df)
+# print("Index population complete.")

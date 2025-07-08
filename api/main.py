@@ -172,3 +172,19 @@ def get_all_items():
             items[key] = data
     return items
 
+
+@app.delete("/delete-all")
+def delete_all_items():
+    """Delete all keys"""
+    keys = r.keys('*')
+    if not keys:
+        return {"status": "error", "message": "No keys to delete."}
+    
+    r.delete(*keys)
+    return {"status": "deleted", "keys_deleted": len(keys)}
+
+@app.get("/count-records")
+def count_records():
+    """Return the number of keys"""
+    count = r.dbsize()
+    return {"total_keys": count}

@@ -1,3 +1,5 @@
+pandas
 python-dotenv
 redis
 redisvl
+sentence-transformers
