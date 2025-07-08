@@ -28,7 +28,6 @@ def check_index_exists(index_name: str) -> bool:
 def populate_index(index: SearchIndex, df: pd.DataFrame):
     index.load(df.to_dict(orient="records"))
 
-
 def delete_all_indexes():
     """Delete all RediSearch indexes"""
     try:
@@ -42,11 +41,11 @@ def delete_all_indexes():
         return {"status": "error", "message": str(e)}
 
 
-def main(index_name: str):
+def main(index_name: str = "symptoms_index"):
     schema = IndexSchema.from_dict({
         "index": {
             "name": index_name,
-            "prefix": f"{index_name}:",
+            "prefix": index_name,
             "storage_type": "hash"
         },
         "fields": [
@@ -65,10 +64,16 @@ def main(index_name: str):
         ]
     })
 
-    index = create_index(schema)
+    if not check_index_exists(index_name):
+        index = create_index(schema)
+    else:
+        index = SearchIndex(schema, client)
     return index
 
 if __name__ == "__main__":
     # create/get index
     index_name = "symptoms"
-    index = create_index(index_name)
+    index = main(index_name)
+
+    populate_index(index, df)
+    print("Index population complete.")

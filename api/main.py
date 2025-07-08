@@ -8,6 +8,7 @@ import json
 from redisvl.query import VectorQuery
 from vector_helper import hf
 from index_helper import main as get_index_helper_main
+from redis_helper import REDIS_URL
 
 app = FastAPI()
 
@@ -223,10 +224,7 @@ class VectorQueryRequest(BaseModel):
 def query_vector(request: VectorQueryRequest):
     """Perform a vector similarity search"""
     try:
-        embedded_user_query = hf.embed(request.query, as_buffer=True)
-        print(f"Embedded query type: {type(embedded_user_query)}")
-        print(f"Embedded query length: {len(embedded_user_query)}")
-        # print(f"Embedded query: {embedded_user_query[:5]}...") # Don't print full vector
+        embedded_user_query = hf.embed(request.query)
 
         vec_query = VectorQuery(
             vector=embedded_user_query,
@@ -235,19 +233,21 @@ def query_vector(request: VectorQueryRequest):
             return_fields=["description", "source"],
             return_score=True
         )
-        print(f"VectorQuery object: {vec_query}")
 
         index = get_index_helper_main(request.index_name)
         result = index.query(vec_query)
         
         formatted_results = []
         for item in result:
+            print(item)
             formatted_results.append({
-                "description": item.description,
-                "source": item.source,
-                "score": item.vector_score
+                "description": item['description'],
+                "source": item['source'],
+                "score": item['vector_distance'],
             })
         
         return {"status": "ok", "results": formatted_results}
     except Exception as e:
+        import traceback
+        traceback.print_exc()
         return {"status": "error", "message": str(e)}
