@@ -48,7 +48,6 @@ def parse_data(file_path, output_path=None):
                     f_out.write(json.dumps(json_line) + '\n')
         print(f"Successfully created JSONL file at {output_path}")
     else:
-        # Original printing logic if no output path is given
         if isinstance(data, dict):
             description = data.get('description', 'No description provided.')
             source = data.get('source', 'No source provided.')
