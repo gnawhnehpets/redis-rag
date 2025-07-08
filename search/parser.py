@@ -2,6 +2,16 @@ import json
 import argparse
 import os
 
+"""_summary_
+Parses a JSON file containing descriptions, sources, and a list of items.
+This script can either output the parsed data to a JSONL file or print it to the console.
+Setup:
+    source setup_env.sh
+Usage:
+    python parser.py <file_path> [--output <output_path>]
+    python3 search/parser.py search/assets 
+"""
+
 def parse_data(file_path, output_path=None):
     """
     Parses a JSON file containing descriptions, sources, and a list of items.
