@@ -1,8 +1,9 @@
 import os
-from fastapi import FastAPI
+from fastapi import FastAPI, Body
 from pydantic import BaseModel
 import redis
-from classes import DeleteKey, UserObject
+from classes import DeleteKey, UserObject, UserObjectJson
+import json
 
 app = FastAPI()
 
@@ -25,41 +26,33 @@ r = redis.Redis(
 
 @app.get("/")
 def read_root():
+    """Root endpoint"""
+    r.set('hits', 0)
     return {"Hello": "World"}
 
 
 @app.get("/hits")
 def read_hits():
+    """Get the number of hits to this endpoint - test"""
     r.incr('hits')
     return {"hits": r.get('hits')}
 
 
 @app.post("/set-key-value")
 def set_key_value(item: RedisItem):
+    """Set a key-value pair in Redis"""
     r.set(item.key, item.value)
     return {"status": "ok", "key": item.key, "value": item.value}
 
 
-@app.get("/get-key-value/{key}")
-def get_key_value(key: str):
-    value = r.get(key)
-    if value is not None:
-        return {"key": key, "value": value}
-    else:
-        return {"status": "error", "message": f"Key {key} does not exist."}
-
-
-@app.delete("/delete-key-value")
-def delete_key_value(item: DeleteKey):
-    if r.exists(item.key):
-        r.delete(item.key)
-        return {"status": "deleted k-v pair", "key": item.key}
-    else:
-        return {"status": "error", "message": f"Key {item.key} does not exist."}
-
-
 @app.post("/set-hash")
-def set_key_hash(item: UserObject):
+def set_key_hash(item: UserObject = Body(
+        ...,
+        example={
+            "user": "stephen",
+            "job": "solutions architect"
+        })):
+    """Set a key in Redis with a hash"""
     redis_key = f"user:{item.user}"
     mapping = {k: v for k, v in item.dict().items() if v is not None}
     if mapping:
@@ -67,35 +60,78 @@ def set_key_hash(item: UserObject):
     return {"status": "ok", "key_set": redis_key}
 
 
-@app.get("/get-hash/{user}")
-def get_key_hash(user: str):
-    redis_key = f"user:{user}"
-    if r.exists(redis_key):
-        data = r.hgetall(redis_key)
-        return {"key": redis_key, "data": data}
-    else:
-        return {"status": "error", "message": f"User {user} does not exist."}
-        
+@app.post("/set-key-json")
+def set_key_json(item: UserObjectJson = Body(
+        ...,
+        example={
+            "user": "stephen2",
+            "details": {
+                "occupation": {"title": "solutions engineer", "salary": 100000000},
+                "address": {"city": "Apex", "state": "NC", "zip": 27502}
+            }
+        })):
+    """Set a key in Redis with JSON data"""
+    redis_key = f"user:{item.user}"
+    mapping = {k: v for k, v in item.dict().items() if v is not None}
+    print(json.dumps(mapping, indent=2))
+    if mapping:
+        r.json().set(redis_key, '$', mapping)
+    return {"status": "ok", "key_set": redis_key}
 
-@app.delete("/delete-hash")
-def delete_key_hash(item: DeleteKey):
-    redis_key = f"user:{item.key}"
-    if r.exists(redis_key):
-        r.delete(redis_key)
-        return {"status": "deleted hash", "key": redis_key}
-    else:
-        return {"status": "error", "message": f"Key {item.key} does not exist."}
 
+@app.get("/get/{key:path}")
+def get_any_key(key: str):
+    """Retrieve any key-value from Redis"""
+    if not r.exists(key):
+        return {"status": "error", "message": f"Key '{key}' does not exist."}
+
+    key_type = r.type(key)
+    data = None
+    
+    if key_type == 'string':
+        data = r.get(key)
+    elif key_type == 'hash':
+        data = r.hgetall(key)
+        for field, value in data.items():
+            try:
+                data[field] = json.loads(value)
+            except (json.JSONDecodeError, TypeError):
+                pass
+    elif key_type == 'ReJSON-RL':
+        data = r.json().get(key)
+    else:
+        data = f"Unsupported data type: {key_type}"
+
+    return {"key": key, "type": key_type, "data": data}
+
+
+@app.delete("/delete/{key:path}")
+def delete_any_key(key: str):
+    """Delete a key from Redis"""
+    if r.exists(key):
+        r.delete(key)
+        return {"status": "deleted", "key": key}
+    else:
+        return {"status": "error", "message": f"Key '{key}' does not exist."}
 
 @app.get("/get-all-items")
 def get_all_items():
+    """Retrieve all items from Redis"""
     keys = r.keys('*')
     items = {}
     for key in keys:
         key_type = r.type(key)
         if key_type == 'hash':
-            items[key] = r.hgetall(key)
+            hash_data = r.hgetall(key)
+            for field, value in hash_data.items():
+                try:
+                    hash_data[field] = json.loads(value)
+                except (json.JSONDecodeError, TypeError):
+                    pass
+            items[key] = hash_data
         elif key_type == 'string':
             items[key] = r.get(key)
+        elif key_type == 'ReJSON-RL':
+            items[key] = r.json().get(key)
     return items
 
