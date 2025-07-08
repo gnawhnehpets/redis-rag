@@ -2,7 +2,7 @@ import os
 from fastapi import FastAPI, Body
 from pydantic import BaseModel
 import redis
-from classes import DeleteKey, UserObject, UserObjectJson
+from classes import DeleteKey, UserObject, UserObjectJson, UserObjectList
 import json
 
 app = FastAPI()
@@ -78,7 +78,18 @@ def set_key_json(item: UserObjectJson = Body(
         r.json().set(redis_key, '$', mapping)
     return {"status": "ok", "key_set": redis_key}
 
-
+@app.post("/push-list")
+def push_list(item: UserObjectList):
+    """Push a list of messages to a Redis key"""
+    redis_key = f"messages:{item.user}"
+    
+    messages_to_push = [msg.json() for msg in item.messages]
+    
+    if messages_to_push:
+        r.rpush(redis_key, *messages_to_push)
+        
+    return {"status": "ok", "key": redis_key, "items_pushed": len(messages_to_push)}
+    
 @app.get("/get/{key:path}")
 def get_any_key(key: str):
     """Retrieve any key-value from Redis"""
@@ -133,5 +144,13 @@ def get_all_items():
             items[key] = r.get(key)
         elif key_type == 'ReJSON-RL':
             items[key] = r.json().get(key)
+        elif key_type == 'list':
+            list_data = r.lrange(key, 0, -1)
+            data = []
+            for item in list_data:
+                try:
+                    data.append(json.loads(item))
+                except (json.JSONDecodeError, TypeError):
+                    data.append(item)
     return items
 
