@@ -2,6 +2,7 @@ import os
 from fastapi import FastAPI
 from pydantic import BaseModel
 import redis
+from classes import DeleteKey, UserObject
 
 app = FastAPI()
 
@@ -31,15 +32,54 @@ def read_hits():
     r.incr('hits')
     return {"hits": r.get('hits')}
 
-@app.post("/set")
+@app.post("/set-key-value")
 def set_key(item: RedisItem):
     r.set(item.key, item.value)
     return {"status": "ok", "key": item.key, "value": item.value}
 
+@app.get("/get-key-value/{key}")
+def get_key(key: str):
+    value = r.get(key)
+    if value is not None:
+        return {"key": key, "value": value}
+    else:
+        return {"status": "error", "message": f"Key {key} does not exist."}
+
+@app.post("/set-hash")
+def set_hash(item: UserObject):
+    redis_key = f"user:{item.user}"
+    mapping = {k: v for k, v in item.dict().items() if v is not None}
+    if mapping:
+        r.hset(redis_key, mapping=mapping)
+    return {"status": "ok", "key_set": redis_key}
+
+@app.get("/get-hash/{user}")
+def get_hash(user: str):
+    redis_key = f"user:{user}"
+    if r.exists(redis_key):
+        data = r.hgetall(redis_key)
+        return {"key": redis_key, "data": data}
+    else:
+        return {"status": "error", "message": f"User {user} does not exist."}
+    
+@app.delete("/delete")
+def delete_key(item: DeleteKey):
+    if r.exists(item.key):
+        r.delete(item.key)
+        return {"status": "deleted k-v pair", "key": item.key}
+    else:
+        return {"status": "error", "message": f"Key {item.key} does not exist."}
+    
+
 @app.get("/get-all-items")
-def get_all():
+def get_all_items():
     keys = r.keys('*')
     items = {}
     for key in keys:
-        items[key] = r.get(key)
+        key_type = r.type(key)
+        if key_type == 'hash':
+            items[key] = r.hgetall(key)
+        elif key_type == 'string':
+            items[key] = r.get(key)
     return items
+
