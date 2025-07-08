@@ -3,7 +3,11 @@ from fastapi import FastAPI, Body
 from pydantic import BaseModel
 import redis
 from classes import DeleteKey, UserObject, UserObjectJson, UserObjectList
+from index_helper import delete_all_indexes
 import json
+from redisvl.query import VectorQuery
+from vector_helper import hf
+from index_helper import main as get_index_helper_main
 
 app = FastAPI()
 
@@ -11,7 +15,7 @@ class RedisItem(BaseModel):
     key: str
     value: str
 
-REDIS_HOST = os.getenv("REDIS_HOST", "redis")
+REDIS_HOST = os.getenv("REDIS_HOST", "localhost")
 REDIS_PORT = int(os.getenv("REDIS_PORT", 6379))
 REDIS_USERNAME = os.getenv("REDIS_USERNAME")
 REDIS_PASSWORD = os.getenv("REDIS_PASSWORD")
@@ -23,6 +27,7 @@ r = redis.Redis(
     password=REDIS_PASSWORD,
     db=0,
     decode_responses=True)
+
 
 @app.get("/")
 def read_root():
@@ -98,7 +103,8 @@ def push_list(item: UserObjectList = Body(
         r.rpush(redis_key, *messages_to_push)
         
     return {"status": "ok", "key": redis_key, "items_pushed": len(messages_to_push)}
-    
+
+
 @app.get("/get/{key:path}")
 def get_any_key(key: str):
     """Retrieve any key-value"""
@@ -142,6 +148,7 @@ def delete_any_key(key: str):
     else:
         return {"status": "error", "message": f"Key '{key}' does not exist."}
 
+
 @app.get("/get-all-items")
 def get_all_items():
     """Retrieve all items"""
@@ -183,8 +190,64 @@ def delete_all_items():
     r.delete(*keys)
     return {"status": "deleted", "keys_deleted": len(keys)}
 
+
 @app.get("/count-records")
 def count_records():
     """Return the number of keys"""
     count = r.dbsize()
     return {"total_keys": count}
+
+
+@app.get("/get-indexes")
+def get_indexes():
+    """Get all RediSearch indexes"""
+    try:
+        index_names = r.execute_command("FT._LIST")  # returns list of index names
+        return {"indexes": index_names}
+    except Exception as e:
+        return {"error": f"Failed to retrieve indexes: {str(e)}"}
+
+@app.delete("/delete-indexes")
+def delete_indexes():
+    """Delete all indexes and associated data"""
+    return delete_all_indexes()
+
+
+class VectorQueryRequest(BaseModel):
+    query: str
+    num_results: int = 3
+    index_name: str = "symptoms"
+
+
+@app.post("/query-vector")
+def query_vector(request: VectorQueryRequest):
+    """Perform a vector similarity search"""
+    try:
+        embedded_user_query = hf.embed(request.query, as_buffer=True)
+        print(f"Embedded query type: {type(embedded_user_query)}")
+        print(f"Embedded query length: {len(embedded_user_query)}")
+        # print(f"Embedded query: {embedded_user_query[:5]}...") # Don't print full vector
+
+        vec_query = VectorQuery(
+            vector=embedded_user_query,
+            vector_field_name="vector",
+            num_results=request.num_results,
+            return_fields=["description", "source"],
+            return_score=True
+        )
+        print(f"VectorQuery object: {vec_query}")
+
+        index = get_index_helper_main(request.index_name)
+        result = index.query(vec_query)
+        
+        formatted_results = []
+        for item in result:
+            formatted_results.append({
+                "description": item.description,
+                "source": item.source,
+                "score": item.vector_score
+            })
+        
+        return {"status": "ok", "results": formatted_results}
+    except Exception as e:
+        return {"status": "error", "message": str(e)}

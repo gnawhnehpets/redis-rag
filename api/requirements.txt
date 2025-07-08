@@ -1,5 +1,10 @@
 fastapi
+pandas
 pydantic
+python-dotenv
 redis
+redisvl
+sentence-transformers
 termcolor
 uvicorn
+numpy

@@ -23,3 +23,17 @@ services:
       - redis
     env_file:
       - ./.env
+
+  # fastapi:
+  #   build: ./api
+  #   ports:
+  #     - "8000:8000"
+  #   volumes:
+  #     - .:/app
+  #   working_dir: /app/api
+  #   depends_on:
+  #     - redis
+  #   env_file:
+  #     - ./.env
+  #   environment:
+  #     - PYTHONPATH=/app

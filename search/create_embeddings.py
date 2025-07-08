@@ -3,12 +3,9 @@ import warnings
 import json
 import pandas as pd
 
-from redis import Redis
-from redisvl.utils.vectorize import HFTextVectorizer
-from redisvl.extensions.cache.embeddings import EmbeddingsCache
-
 from redis_helper import client
 from index_helper import populate_index, main as create_index_main
+from vector_helper import hf
 
 # load json file
 df = pd.read_json("assets/symptoms.jsonl", lines=True)
@@ -19,14 +16,7 @@ print(df.head())
 # disable parallelism to avoid warnings
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-hf = HFTextVectorizer(
-    model="sentence-transformers/all-MiniLM-L6-v2",
-    cache=EmbeddingsCache(
-        name="embedcache",
-        ttl=600,
-        redis_client=client,
-    )
-)
+
 
 # vectorize descriptions
 # use as_buffer=True to store vectors in Redis as binary data
@@ -39,5 +29,5 @@ print(df.head())
 index_name = "symptoms"
 index = create_index_main(index_name)
 
-# populate_index(index, df)
-# print("Index population complete.")
+populate_index(index, df)
+print("Index population complete.")
