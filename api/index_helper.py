@@ -18,7 +18,7 @@ def check_index_exists(index_name: str) -> bool:
 
     if result.returncode == 0:
         print(f"Index '{index_name}' exists.")
-        print(result.stdout)
+        # print(result.stdout)
         return True
     else:
         print(f"Index '{index_name}' does not exist.")

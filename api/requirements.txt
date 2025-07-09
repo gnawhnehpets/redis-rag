@@ -1,4 +1,5 @@
 fastapi
+nltk
 pandas
 pydantic
 python-dotenv

@@ -5,7 +5,8 @@ import redis
 from classes import DeleteKey, UserObject, UserObjectJson, UserObjectList
 from index_helper import delete_all_indexes
 import json
-from redisvl.query import VectorQuery
+from redisvl.query import VectorQuery, HybridQuery
+
 from vector_helper import hf
 from index_helper import main as get_index_helper_main
 from redis_helper import REDIS_URL
@@ -220,8 +221,8 @@ class VectorQueryRequest(BaseModel):
     index_name: str = "symptoms"
 
 
-@app.post("/query-vector")
-def query_vector(request: VectorQueryRequest):
+@app.post("/query-vector-search")
+def query_vector_search(request: VectorQueryRequest):
     """Perform a vector similarity search"""
     try:
         embedded_user_query = hf.embed(request.query)
@@ -244,6 +245,48 @@ def query_vector(request: VectorQueryRequest):
                 "description": item['description'],
                 "source": item['source'],
                 "score": item['vector_distance'],
+            })
+        
+        return {"status": "ok", "results": formatted_results}
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        return {"status": "error", "message": str(e)}
+
+
+@app.post("/query-hybrid-search")
+def query_vector_search(request: VectorQueryRequest):
+    """Perform a hybrid search combining text and vector similarity search"""
+    try:
+        embedded_user_query = hf.embed(request.query)
+
+        vec_query = HybridQuery(
+            text=request.query,
+            text_field_name="description",
+            text_scorer="BM25STD", # [TFIDF, TFIDF.DOCNORM, BM25, DISMAX, DOCSCORE, BM25STD]
+            
+            vector=embedded_user_query,
+            vector_field_name="vector",
+            alpha=0.25, # weight the vector score lower
+            
+            num_results=request.num_results,
+            return_fields=["description", "source"],
+            stopwords="english"
+        )
+
+        index = get_index_helper_main(request.index_name)
+        result = index.query(vec_query)
+        
+        formatted_results = []
+        for item in result:
+            print(item)
+            formatted_results.append({
+                "description": item['description'],
+                "source": item['source'],
+                "vector_distance": item['vector_distance'],
+                "vector_similarity": item['vector_similarity'],
+                "text_score": item['text_score'],
+                "hybrid_score": item['hybrid_score']
             })
         
         return {"status": "ok", "results": formatted_results}
